@@ -4,7 +4,7 @@ on:
   schedule:
     # 8 AM Pacific is 15:00 UTC (16:00 UTC during standard time)
     # We will run this at 15:00 UTC every day.
-    - cron: '0 15 * * *'
+    - cron: '0 15 1 * *'
   workflow_dispatch: # allow manual triggers
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages or Vercel
@@ -53,7 +53,7 @@ jobs:
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/
+          path: public/
 
       # Optional: To persist output data back to the repo for history
       - name: Commit data files
