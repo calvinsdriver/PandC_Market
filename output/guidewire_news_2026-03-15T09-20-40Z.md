@@ -1,0 +1,1003 @@
+# Guidewire Software & Competitors – News
+
+*Generated 2026-03-15 09:20 UTC*
+
+## 1. Guidewire A 'Good Hands' Insurance Play For Investors Amid Trump Tariffs - MSN
+
+**Link:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmdCNkVuZnFKZy1UOW0xQ2lSY3dUZnBUYzhBOVN2OHNoSXdHRkFmcVVtSFp5RWRtWEpvelJMWUtHdkoyT1JJS3ZqeUh2VnZIQUxuTkJzcnNRcTFVVURLaGJLYnhRZU1pN2hsU1NMNHpmbVN1c2lFSTN0cTFidjhqR1dQeGVsd3lMaWRCV3BPM3lKRkdyd1ZsZTZ5WVpfeTJUWUNxbEpaajJyM2JHQ2dFcXh6NEdUaGJHUzljcWNtcWpQcjFnNVlub1JUQW1oa3YwY3JVOFFkSlRkSDBYWUNYTHJWNUU?oc=5
+**Published:** Wed, 23 Apr 2025 17:10:01 GMT
+**Source:** "Majesco Insurity Sapiens insurance software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmdCNkVuZnFKZy1UOW0xQ2lSY3dUZnBUYzhBOVN2OHNoSXdHRkFmcVVtSFp5RWRtWEpvelJMWUtHdkoyT1JJS3ZqeUh2VnZIQUxuTkJzcnNRcTFVVURLaGJLYnhRZU1pN2hsU1NMNHpmbVN1c2lFSTN0cTFidjhqR1dQeGVsd3lMaWRCV3BPM3lKRkdyd1ZsZTZ5WVpfeTJUWUNxbEpaajJyM2JHQ2dFcXh6NEdUaGJHUzljcWNtcWpQcjFnNVlub1JUQW1oa3YwY3JVOFFkSlRkSDBYWUNYTHJWNUU?oc=5" target="_blank">Guidewire A 'Good Hands' Insurance Play For Investors Amid Trump Tariffs</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font>
+
+---
+
+## 2. Duck Creek Technologies Wins IDC FinTech Real Results Award for Insurance Transformation - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEY3ZmxaTTF3WlZLblVHVlpWRWFnMmpiU2NUUVptMUNhdE83eTFDMXBYM2R5ZmVDUThqNWNYTFplSEdSSWpCZDAwS2pjSkhHQ0JuTU5YdUt3dW5qZ0RFUTBDbDVMUG9zejg3Y1JHLVZ3cmp4WEtyUHFSYndFSjFiam9KTXFsMVk1b0oydTR2Mkp5Y3pZV3FkY1RucGtMTXhPWEFzZTV1aWF5b3NoVFpoY3RpSkJreGhSR09lQklBTS0zZF9XV09QeU0wTEtheU9sOVFybjZvMnhnTkMzc2Z4VQ?oc=5
+**Published:** Wed, 22 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNEY3ZmxaTTF3WlZLblVHVlpWRWFnMmpiU2NUUVptMUNhdE83eTFDMXBYM2R5ZmVDUThqNWNYTFplSEdSSWpCZDAwS2pjSkhHQ0JuTU5YdUt3dW5qZ0RFUTBDbDVMUG9zejg3Y1JHLVZ3cmp4WEtyUHFSYndFSjFiam9KTXFsMVk1b0oydTR2Mkp5Y3pZV3FkY1RucGtMTXhPWEFzZTV1aWF5b3NoVFpoY3RpSkJreGhSR09lQklBTS0zZF9XV09QeU0wTEtheU9sOVFybjZvMnhnTkMzc2Z4VQ?oc=5" target="_blank">Duck Creek Technologies Wins IDC FinTech Real Results Award for Insurance Transformation</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 3. Commercial lines face tech shake-up - but claims remain insurance’s blind spot - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWpHNjJkdldUd3FzbmIwMzBsSUN1WXFVYzN4QTRqemZDd1VMT2JBME9wRUVvdnp6emlUZGpKeUpySWdDWkg0WHU3eFJHMnZnOUdNVkJiNlgydVFrX0hBczFJZHdKNGJORWdGMjJGelJVZnBhLThsOWlISml4ZkhycEUtQWJZbVBJaHVMTmVOdlZGMk0xUjI2Y09QN2drOGlvNkpZc2hRUmxoQWxrZG1vWnJGN2lVUE5SLUNFUW5sSVl6TFpDdXlqU2xMX3JaczNLdUJ2NGJ1MzE3TEk?oc=5
+**Published:** Wed, 21 Jan 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWpHNjJkdldUd3FzbmIwMzBsSUN1WXFVYzN4QTRqemZDd1VMT2JBME9wRUVvdnp6emlUZGpKeUpySWdDWkg0WHU3eFJHMnZnOUdNVkJiNlgydVFrX0hBczFJZHdKNGJORWdGMjJGelJVZnBhLThsOWlISml4ZkhycEUtQWJZbVBJaHVMTmVOdlZGMk0xUjI2Y09QN2drOGlvNkpZc2hRUmxoQWxrZG1vWnJGN2lVUE5SLUNFUW5sSVl6TFpDdXlqU2xMX3JaczNLdUJ2NGJ1MzE3TEk?oc=5" target="_blank">Commercial lines face tech shake-up - but claims remain insurance’s blind spot</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 4. Choosing core systems in a shifting vendor landscape is reshaping insurer operations - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd2Q1WnN6cEp3TDlPaXA3eVc2cklJSjV1bDgzeF9FVWpQUkY0c2VaQm4xWU5JTkF5enFKRTNCNFI4MndiMW9uMmwtSjQya0Njc3QxeVZOQkdnT1ZBRmx5TmJjMllsSnhjQVdnZmxnOFlacDc5T2tGYVZtZkxuSEhDSC04eThORnhBTHRJZjhkV1A0TnJ5RVdCQkZyZHlLcFJ6WTBZN0tRa2pDeHN2aUhiTnZ1Sy1ZYzZ6UTlMTHFDVTRobUF2SThGODNxVGc3U21OaTF4Rm40YVh3UUp3QWt2RWEyTzYzakk?oc=5
+**Published:** Wed, 17 Dec 2025 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd2Q1WnN6cEp3TDlPaXA3eVc2cklJSjV1bDgzeF9FVWpQUkY0c2VaQm4xWU5JTkF5enFKRTNCNFI4MndiMW9uMmwtSjQya0Njc3QxeVZOQkdnT1ZBRmx5TmJjMllsSnhjQVdnZmxnOFlacDc5T2tGYVZtZkxuSEhDSC04eThORnhBTHRJZjhkV1A0TnJ5RVdCQkZyZHlLcFJ6WTBZN0tRa2pDeHN2aUhiTnZ1Sy1ZYzZ6UTlMTHFDVTRobUF2SThGODNxVGc3U21OaTF4Rm40YVh3UUp3QWt2RWEyTzYzakk?oc=5" target="_blank">Choosing core systems in a shifting vendor landscape is reshaping insurer operations</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 5. Insurance’s biggest digital roadblock - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2NHbGs5R291V2tjcXliazdFVGN6aUFnVTNVcGMtaTQ2bDRNVmoxeEhQdHpaSU1uOW9tQnZ2ZVdCdnhDS1VOYzRtNDFwLW5HUGEtR3BrOTZXejd1MXJMSVVJaENoOWtCUS1hSk93V2x5S29aVjF4cnNmN2g3LWJqSFJUR1VEZDJxNmRLVmFSejJtRkl1WFllVzh5N3g4WjRkdVJ3M01TSQ?oc=5
+**Published:** Wed, 17 Dec 2025 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2NHbGs5R291V2tjcXliazdFVGN6aUFnVTNVcGMtaTQ2bDRNVmoxeEhQdHpaSU1uOW9tQnZ2ZVdCdnhDS1VOYzRtNDFwLW5HUGEtR3BrOTZXejd1MXJMSVVJaENoOWtCUS1hSk93V2x5S29aVjF4cnNmN2g3LWJqSFJUR1VEZDJxNmRLVmFSejJtRkl1WFllVzh5N3g4WjRkdVJ3M01TSQ?oc=5" target="_blank">Insurance’s biggest digital roadblock</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 6. Insurance moves: Howden, CILA, and Duck Creek - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVNpZWlDSFdaVGc1MEpZc0xlRkpsWU9XY05VcDV4ZENtU0pzbm9PZVdBY2pyT2lMUEMzamVuUG9CTjJmR3c2c2lxN0t4cWZsZkdyMUEzcC1XSklHV2NHTDRjX2ZyOU45SEYzX29QQ2RDSnJudUNRWkNYYkV3RWpPcEN2VU5JbFlnemRROWR0WUtaN2pudHQwZnl2eWlUREtWemU2RVhxbUZXMWtNMEt3WnJPaw?oc=5
+**Published:** Wed, 15 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVNpZWlDSFdaVGc1MEpZc0xlRkpsWU9XY05VcDV4ZENtU0pzbm9PZVdBY2pyT2lMUEMzamVuUG9CTjJmR3c2c2lxN0t4cWZsZkdyMUEzcC1XSklHV2NHTDRjX2ZyOU45SEYzX29QQ2RDSnJudUNRWkNYYkV3RWpPcEN2VU5JbFlnemRROWR0WUtaN2pudHQwZnl2eWlUREtWemU2RVhxbUZXMWtNMEt3WnJPaw?oc=5" target="_blank">Insurance moves: Howden, CILA, and Duck Creek</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 7. Zelis® Accelerates Expansion into P&C Market with Duck Creek Partnership to Modernize Claims Payments - FF News | Fintech Finance
+
+**Link:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkhYT3JRaVU5U3c2SXp1RHNmbzNfSlF0OWxOM1Nsa3F6eTk1cUViamhjRTRxTThvak81MlkxS0RGa080WVRzRTNPYkZMZXhVZ2lRcWhQT05DRXM4UG5tT04tOVowbUhEMEtBbWQ5QWJXVUx4LTVuNC1qSWZsLTBfUUdwOW1EMmpIeHJ0ZUZiX2s1cGxWVmswU3hIRWRWUEJCSGFBOWwwR2NwNV95Wm0wUHpBY29YZURFVGVBazkyME1iRDVaTlVfdjFpb1dwWERFazFZMEU2aHo?oc=5
+**Published:** Wed, 12 Nov 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkhYT3JRaVU5U3c2SXp1RHNmbzNfSlF0OWxOM1Nsa3F6eTk1cUViamhjRTRxTThvak81MlkxS0RGa080WVRzRTNPYkZMZXhVZ2lRcWhQT05DRXM4UG5tT04tOVowbUhEMEtBbWQ5QWJXVUx4LTVuNC1qSWZsLTBfUUdwOW1EMmpIeHJ0ZUZiX2s1cGxWVmswU3hIRWRWUEJCSGFBOWwwR2NwNV95Wm0wUHpBY29YZURFVGVBazkyME1iRDVaTlVfdjFpb1dwWERFazFZMEU2aHo?oc=5" target="_blank">Zelis® Accelerates Expansion into P&amp;C Market with Duck Creek Partnership to Modernize Claims Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">FF News | Fintech Finance</font>
+
+---
+
+## 8. Zelis and Duck Creek partner to boost P&C market - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1NLZzhKTU5NS25jT1pMMmFKZHVRb2x5SWZOeF9LV2lhSk5VY2pzNndaZkhPdldpMFhaMUMxbjc1TUw0VVJmc2tHWjh6ai0zdldGeDRIQjUycWRKbm0zYzVLbDIzU0RvQXlqcW1Sdk1ERUIxb05YWUtBdWM1VmJnRkowSnJNMURSSVE?oc=5
+**Published:** Wed, 12 Nov 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1NLZzhKTU5NS25jT1pMMmFKZHVRb2x5SWZOeF9LV2lhSk5VY2pzNndaZkhPdldpMFhaMUMxbjc1TUw0VVJmc2tHWjh6ai0zdldGeDRIQjUycWRKbm0zYzVLbDIzU0RvQXlqcW1Sdk1ERUIxb05YWUtBdWM1VmJnRkowSnJNMURSSVE?oc=5" target="_blank">Zelis and Duck Creek partner to boost P&amp;C market</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 9. Nominations open for 2026 5-Star Technology and Software Providers - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDE4MFBvRmRXYUo3ZHpnQVlhUjdpT2taVFFsY0pBR0FZX094RDZiODJQbkI5NVVfdGJTV1Fpeld3M2p1cUxLbW1uQndlNUVqSjhZdTRzMzNMQjYxTFpTUUw1LVJaeHpaRlZaVGNKV2xDTFBLQUNMbWxvUXlBUGFmcDhwVldYRVgyZm1OTmdzd1hRenFIZENaT1RIYmE3ZmJ3NWZkSGVaUWJPS2w3UFIyUkVJSkZlUFFZREVYb0V4eV9MTHZVb3BHR0x0UjZNSmE1d1E?oc=5
+**Published:** Wed, 11 Mar 2026 15:40:32 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDE4MFBvRmRXYUo3ZHpnQVlhUjdpT2taVFFsY0pBR0FZX094RDZiODJQbkI5NVVfdGJTV1Fpeld3M2p1cUxLbW1uQndlNUVqSjhZdTRzMzNMQjYxTFpTUUw1LVJaeHpaRlZaVGNKV2xDTFBLQUNMbWxvUXlBUGFmcDhwVldYRVgyZm1OTmdzd1hRenFIZENaT1RIYmE3ZmJ3NWZkSGVaUWJPS2w3UFIyUkVJSkZlUFFZREVYb0V4eV9MTHZVb3BHR0x0UjZNSmE1d1E?oc=5" target="_blank">Nominations open for 2026 5-Star Technology and Software Providers</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 10. Vertical Software Q4 Earnings: Alarm.com & Guidewire Beat Estimates - News and Statistics - IndexBox
+
+**Link:** https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUh3M1l1WEZJTzJ5UFNOY3JLMkU3RDhZMkxiNWxGNGlIdHBQY3dQNktmdnhWWnMzSk1LR0hla19OUExmTDRHQV91V0FKVXdOWXFEY0tXN3ZZVFBQemVHNmU5ZE9IYXdvTUpVQVFoLUlLUkRfNW5xQ0lzSld2QlZ6a0hHdnE5YkNGQjIyQXlOMA?oc=5
+**Published:** Wed, 11 Mar 2026 15:37:00 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUh3M1l1WEZJTzJ5UFNOY3JLMkU3RDhZMkxiNWxGNGlIdHBQY3dQNktmdnhWWnMzSk1LR0hla19OUExmTDRHQV91V0FKVXdOWXFEY0tXN3ZZVFBQemVHNmU5ZE9IYXdvTUpVQVFoLUlLUkRfNW5xQ0lzSld2QlZ6a0hHdnE5YkNGQjIyQXlOMA?oc=5" target="_blank">Vertical Software Q4 Earnings: Alarm.com & Guidewire Beat Estimates - News and Statistics</a>&nbsp;&nbsp;<font color="#6f6f6f">IndexBox</font>
+
+---
+
+## 11. Guidewire Software (GWRE) Traded Lower Along with Peers - Insider Monkey
+
+**Link:** https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlVFRGNheXlzMFpTZjRxSEREYU1FcTI0M1lRX3FqdkxwRHhtZzFiV2tVOVYzcUFja2xaZ1k4bTBFTEJuMWtzZUk4VGttSDZBVjdhZnoxcWNHQzY2cHozRXhVUmNrTGtBeUM4cnJHcGlzV19QNWxlUE1VVVFrY3prZUY5bmtIX1U1b2JmTDRGcEdRdlUySVdDaUZPWnBqSDRiUVA00gGrAUFVX3lxTE03NHlMTzQ0Z0p1Y180T2E5WWVlWnlYdUNaNjA2OGlzSl9ZVjJ0VEFWRjhleklNbW5wYU9oN09lYXptblJwaHV2VVlYdnRzSENHcEpPMkZiNnlNU20tWnpOZ1pzOHF3VlRXdlpOZnpBc1ZVS2tUejU2VmZOY3JiSG1EZTBhVlVldnBMTWk2a2ZJUUJFWkZ5dk16eGFUanJzNDlpX0dRTExsRldQYw?oc=5
+**Published:** Wed, 11 Mar 2026 14:53:09 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlVFRGNheXlzMFpTZjRxSEREYU1FcTI0M1lRX3FqdkxwRHhtZzFiV2tVOVYzcUFja2xaZ1k4bTBFTEJuMWtzZUk4VGttSDZBVjdhZnoxcWNHQzY2cHozRXhVUmNrTGtBeUM4cnJHcGlzV19QNWxlUE1VVVFrY3prZUY5bmtIX1U1b2JmTDRGcEdRdlUySVdDaUZPWnBqSDRiUVA00gGrAUFVX3lxTE03NHlMTzQ0Z0p1Y180T2E5WWVlWnlYdUNaNjA2OGlzSl9ZVjJ0VEFWRjhleklNbW5wYU9oN09lYXptblJwaHV2VVlYdnRzSENHcEpPMkZiNnlNU20tWnpOZ1pzOHF3VlRXdlpOZnpBc1ZVS2tUejU2VmZOY3JiSG1EZTBhVlVldnBMTWk2a2ZJUUJFWkZ5dk16eGFUanJzNDlpX0dRTExsRldQYw?oc=5" target="_blank">Guidewire Software (GWRE) Traded Lower Along with Peers</a>&nbsp;&nbsp;<font color="#6f6f6f">Insider Monkey</font>
+
+---
+
+## 12. Country-Wide adopts Duck Creek data platform - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMihgFBVV95cUxQVVppQ0Q1X0VFLTFPNlU3WWxXRTdhQWN6N1ZoWFRkblBqaXkyR001c2UwQkxWd3Bxa0VsQ2lZR3pTbEc2TjRYZ1oxMHI4NFBDMmRzT181LTBiS1R5clNmZ2N6TnZWNnV1UkdvY3psckNDcG4yWnJiRXFZX0RJMTlJMmhCRjlvUQ?oc=5
+**Published:** Wed, 11 Mar 2026 09:32:09 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQVVppQ0Q1X0VFLTFPNlU3WWxXRTdhQWN6N1ZoWFRkblBqaXkyR001c2UwQkxWd3Bxa0VsQ2lZR3pTbEc2TjRYZ1oxMHI4NFBDMmRzT181LTBiS1R5clNmZ2N6TnZWNnV1UkdvY3psckNDcG4yWnJiRXFZX0RJMTlJMmhCRjlvUQ?oc=5" target="_blank">Country-Wide adopts Duck Creek data platform</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 13. A Look At Guidewire Software (GWRE) Valuation After Recent Share Price Swings - simplywall.st
+
+**Link:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtxS1MyNlVybHdRZ25lRmNISWhRSWpiUWUtajdVUWk1eC1BY3AxUXFrSmstOTdNeGhlcklNdTdSajZfSjhFb2l1blAzcnZNaUgydnRQNk14Sjg0MlpaREhJUzI2OEVWbFlkX3VwejEzNlBLZHpKaHk3TUlhNzBqdkxjOE1qdHFMZnF4cWk3dzhoYjA2NXIyZXQzNXpqakowMXl3MDdGRDRDVGNKZ2dxc0pTLWtHRVh0RTg4Zmc5LXl3amtVTWF5eTd2X3pJSjlw0gHWAUFVX3lxTE1XVWxaOXlyTVdIZk41V01IeWx3aEhEblgxWk1HX280X3BQbk9SUmV3c2h2UjBZTGRhUVN6WVRmR09zbHNfZ2d5d25wUlJaX3hRdE9icTZ2RVAzanloMkRBTzhqeG5ESWRoTWgxMGFnaWd6UmdVQjVobFk1ZGNrVWdrTExuZ0hEQVdOSXRXdHgwV0hQMHJoSkI0akgtc1dSRld0ZzhfLVE5TExFenQ1RkE3TXl3VmhlMmhxd1NGYWpoM1RoSU9jc3JIR0VOY2RRUzM3UTBOMVE?oc=5
+**Published:** Wed, 11 Mar 2026 02:38:13 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeGtxS1MyNlVybHdRZ25lRmNISWhRSWpiUWUtajdVUWk1eC1BY3AxUXFrSmstOTdNeGhlcklNdTdSajZfSjhFb2l1blAzcnZNaUgydnRQNk14Sjg0MlpaREhJUzI2OEVWbFlkX3VwejEzNlBLZHpKaHk3TUlhNzBqdkxjOE1qdHFMZnF4cWk3dzhoYjA2NXIyZXQzNXpqakowMXl3MDdGRDRDVGNKZ2dxc0pTLWtHRVh0RTg4Zmc5LXl3amtVTWF5eTd2X3pJSjlw0gHWAUFVX3lxTE1XVWxaOXlyTVdIZk41V01IeWx3aEhEblgxWk1HX280X3BQbk9SUmV3c2h2UjBZTGRhUVN6WVRmR09zbHNfZ2d5d25wUlJaX3hRdE9icTZ2RVAzanloMkRBTzhqeG5ESWRoTWgxMGFnaWd6UmdVQjVobFk1ZGNrVWdrTExuZ0hEQVdOSXRXdHgwV0hQMHJoSkI0akgtc1dSRld0ZzhfLVE5TExFenQ1RkE3TXl3VmhlMmhxd1NGYWpoM1RoSU9jc3JIR0VOY2RRUzM3UTBOMVE?oc=5" target="_blank">A Look At Guidewire Software (GWRE) Valuation After Recent Share Price Swings</a>&nbsp;&nbsp;<font color="#6f6f6f">simplywall.st</font>
+
+---
+
+## 14. Insurance industry solutions - DXC Technology
+
+**Link:** https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rMTU5NWYwMEtKdHMxOVV5QVdZWGF5SmVBNG1reTRMUURoNTZFN3FDYUdYQTJlWFdJT3BON0RONkc5UWlYWDdET0p2S1k?oc=5
+**Published:** Wed, 10 Dec 2025 04:55:57 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rMTU5NWYwMEtKdHMxOVV5QVdZWGF5SmVBNG1reTRMUURoNTZFN3FDYUdYQTJlWFdJT3BON0RONkc5UWlYWDdET0p2S1k?oc=5" target="_blank">Insurance industry solutions</a>&nbsp;&nbsp;<font color="#6f6f6f">DXC Technology</font>
+
+---
+
+## 15. Duck Creek Technologies to Co-Host Panel Session with Hagerty and Showcase its Cloud-Native Platform at ITC Vegas 2025 - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMihAJBVV95cUxNR054d3lJM2Yya2d5aG1qU19Obk9sWWM3ZGx4d1J6X1hWWnZsejRTVy1SX01pRXctYUVTRFNtT09CaW1oUE9MVjV6R3hEMkZvcE1hanZkMWdqVERtUC1GekNpSENsMEZmLVFUWGJDdWtHVVk2VjFVQjZ6d3hCNzR2VDV2UFhDV2FlbkVBVldxNGIzbEItcGx4YmNaOTE0NFI5WlJQV3dXMGVsRjNDeG9NSkRNblh5eDF2LWhGRWpoVjBzdTlRaG0tWmtKQ0Y2Y3FvSk1UbzNQSnZzVGNHNXdSYkVsTW1GbXd5WVY4dXJ4WG5tMThvdXowU2pSMU54bER3QXVNdw?oc=5
+**Published:** Wed, 08 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxNR054d3lJM2Yya2d5aG1qU19Obk9sWWM3ZGx4d1J6X1hWWnZsejRTVy1SX01pRXctYUVTRFNtT09CaW1oUE9MVjV6R3hEMkZvcE1hanZkMWdqVERtUC1GekNpSENsMEZmLVFUWGJDdWtHVVk2VjFVQjZ6d3hCNzR2VDV2UFhDV2FlbkVBVldxNGIzbEItcGx4YmNaOTE0NFI5WlJQV3dXMGVsRjNDeG9NSkRNblh5eDF2LWhGRWpoVjBzdTlRaG0tWmtKQ0Y2Y3FvSk1UbzNQSnZzVGNHNXdSYkVsTW1GbXd5WVY4dXJ4WG5tMThvdXowU2pSMU54bER3QXVNdw?oc=5" target="_blank">Duck Creek Technologies to Co-Host Panel Session with Hagerty and Showcase its Cloud-Native Platform at ITC Vegas 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 16. How Modern Is ‘Modern Enough’ for Insurance Applications? - Carrier Management
+
+**Link:** https://news.google.com/rss/articles/CBMickFVX3lxTFB3NE9jZkttSDE2d193YVhVSnN6U3ZyOWlqVzVfU0l0UTZFVDEtaFlUU2JCTmNLWHlaYWdwTWxMWXdiTlFEWTRzLUZQdDZrNzdwMW1BWkZqY014cy14NG0zYmpCSUNBN09uNUNoSUFLb0h2dw?oc=5
+**Published:** Wed, 04 Mar 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTFB3NE9jZkttSDE2d193YVhVSnN6U3ZyOWlqVzVfU0l0UTZFVDEtaFlUU2JCTmNLWHlaYWdwTWxMWXdiTlFEWTRzLUZQdDZrNzdwMW1BWkZqY014cy14NG0zYmpCSUNBN09uNUNoSUFLb0h2dw?oc=5" target="_blank">How Modern Is ‘Modern Enough’ for Insurance Applications?</a>&nbsp;&nbsp;<font color="#6f6f6f">Carrier Management</font>
+
+---
+
+## 17. AI in insurance: Understanding the implications for investors - McKinsey & Company
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNMzhQSDRQTExRc3RCeHh2QVpjUVQwM2owUHl4R1hQeVVTOG9aVHVUX1NabkM3ZGVCeHg0NmFpUUE4U3lUb1pmX2dmS2FvQUpZRWZTcXl1MTh3TXJFNldxUW43Znk1cE1BT3JVNzB1SGxrR0VBVEw2dG1PM0xnWHhDVzFiVzRLYXRGZEl4c2YzMVFmN01hQXJZdE1OUnJiaXBKakVHR0dYNEJIYWtJcWY5d054enFYakJZWjByZHBQY3NIZEs4S1pV?oc=5
+**Published:** Wed, 04 Feb 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNMzhQSDRQTExRc3RCeHh2QVpjUVQwM2owUHl4R1hQeVVTOG9aVHVUX1NabkM3ZGVCeHg0NmFpUUE4U3lUb1pmX2dmS2FvQUpZRWZTcXl1MTh3TXJFNldxUW43Znk1cE1BT3JVNzB1SGxrR0VBVEw2dG1PM0xnWHhDVzFiVzRLYXRGZEl4c2YzMVFmN01hQXJZdE1OUnJiaXBKakVHR0dYNEJIYWtJcWY5d054enFYakJZWjByZHBQY3NIZEs4S1pV?oc=5" target="_blank">AI in insurance: Understanding the implications for investors</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>
+
+---
+
+## 18. Fubon advances core modernization for speed, trust and growth - DXC Technology
+
+**Link:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFdqNVRaazFDZWU5NEpMZTdaRDZMdkhLeWFHVWppWTJCVlFpOHFQRk05VTc0VjA0aC03bW5EeVI5bmFzMl9sMWZkV1AwYkx4S2NiRTF4MHZmT1lNNktieTlqZ0RXSTktU0twR2FFSnF6eV9WbXkySHBEZnM3UVFpcHZYYnRxUXNRWTNrWEV6S3U2Y2VVejBETlRlV0pDVUFJSGFxdw?oc=5
+**Published:** Wed, 04 Feb 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFdqNVRaazFDZWU5NEpMZTdaRDZMdkhLeWFHVWppWTJCVlFpOHFQRk05VTc0VjA0aC03bW5EeVI5bmFzMl9sMWZkV1AwYkx4S2NiRTF4MHZmT1lNNktieTlqZ0RXSTktU0twR2FFSnF6eV9WbXkySHBEZnM3UVFpcHZYYnRxUXNRWTNrWEV6S3U2Y2VVejBETlRlV0pDVUFJSGFxdw?oc=5" target="_blank">Fubon advances core modernization for speed, trust and growth</a>&nbsp;&nbsp;<font color="#6f6f6f">DXC Technology</font>
+
+---
+
+## 19. Insurance moves: Starkweather, Affordable American, Duck Creek, Mutual Group and New York Life - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMDBRUXJKU25pWVVzcnRENnRkMkZRRXctZW9GUGx6cjRxN203S3p1YTlFUFJ2c1FvdlVER2xIUDVZVjZ5eUkxZC1rRGNidmpjcERud1dvNE9xeDJKN2p6TWh6ZzRSRjVPY3RHX2FxeDhTcXJ0LXJEWWwxNUg4dmZyNDlmYS1HWUJtbVBrMDR5NkNSeEJ5eGJDTUNrcEhoTWZSWEtXVWlGSms4aElDYXNOTmE0WG5NS0hfazVpTFRyeGJkU05ZdVNLRkFhX3dYeWszaTJxekRFOGZwOEZmdzhFOVF4MVd2cVU3elh0b1BYcGRiNVE?oc=5
+**Published:** Wed, 03 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMDBRUXJKU25pWVVzcnRENnRkMkZRRXctZW9GUGx6cjRxN203S3p1YTlFUFJ2c1FvdlVER2xIUDVZVjZ5eUkxZC1rRGNidmpjcERud1dvNE9xeDJKN2p6TWh6ZzRSRjVPY3RHX2FxeDhTcXJ0LXJEWWwxNUg4dmZyNDlmYS1HWUJtbVBrMDR5NkNSeEJ5eGJDTUNrcEhoTWZSWEtXVWlGSms4aElDYXNOTmE0WG5NS0hfazVpTFRyeGJkU05ZdVNLRkFhX3dYeWszaTJxekRFOGZwOEZmdzhFOVF4MVd2cVU3elh0b1BYcGRiNVE?oc=5" target="_blank">Insurance moves: Starkweather, Affordable American, Duck Creek, Mutual Group and New York Life</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 20. Duck Creek names Rajesh Raheja as new CTO - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUZNT0JjYkJrbjVwbUxwdUdWdjJYVnc5TUtQSFItbVJLQkdDajM5MXVsMDJhSno5VHFHTUk5MDdqRHkzYXZ0RW9DOHdtVjBUYXpZMHB1ZHhUMnh2bjlLYTN6ZGhrYW9FYnFMUVpxU2FCYVp1a29PWVA2TXRYV2tPZE1B?oc=5
+**Published:** Wed, 03 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUZNT0JjYkJrbjVwbUxwdUdWdjJYVnc5TUtQSFItbVJLQkdDajM5MXVsMDJhSno5VHFHTUk5MDdqRHkzYXZ0RW9DOHdtVjBUYXpZMHB1ZHhUMnh2bjlLYTN6ZGhrYW9FYnFMUVpxU2FCYVp1a29PWVA2TXRYV2tPZE1B?oc=5" target="_blank">Duck Creek names Rajesh Raheja as new CTO</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 21. Duck Creek Technologies Announces 2025 Partner of the Year Award Winners - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVrbHdJTmdSX2F4dTI2eUM0SnJObjRFVWF3bzVoMzJYODQyWjFWVjdmX2hvNW1hd2Q4QlF1dU9EMmJQSWJSZV9oM1BrUk5VUlBjM0liWVd4dzUtX3BQb3BmSlkxVlVURjVTVHkteXRfV05waFhLODZHSUVRY1RqTWZtT21YanFndjJpVmZfZHlWMEc1OFhHbVJ0dFdic3MybTRoN1diOWx2WnZ4RVA2eTI2bmR3VFhwUU1WSzdsT05TU2JGdkpv?oc=5
+**Published:** Tue, 30 Sep 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnVrbHdJTmdSX2F4dTI2eUM0SnJObjRFVWF3bzVoMzJYODQyWjFWVjdmX2hvNW1hd2Q4QlF1dU9EMmJQSWJSZV9oM1BrUk5VUlBjM0liWVd4dzUtX3BQb3BmSlkxVlVURjVTVHkteXRfV05waFhLODZHSUVRY1RqTWZtT21YanFndjJpVmZfZHlWMEc1OFhHbVJ0dFdic3MybTRoN1diOWx2WnZ4RVA2eTI2bmR3VFhwUU1WSzdsT05TU2JGdkpv?oc=5" target="_blank">Duck Creek Technologies Announces 2025 Partner of the Year Award Winners</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 22. Driving Digital Change: How Technology Is Reshaping the Insurance Core Systems Landscape - Entrepreneur
+
+**Link:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDRTc0VaaTdyaVFBbjRMbFljYV9XeHBCWGd0NlZUM3BFVDJtTVBEWGN4cGo4WG9MU1ZPMzZZMTBoUW93ejhXbFBWRGJzVVdiWWxBT0paNHVUNno1Z24zNkxtTHRwSXN1NnlpNUZRZnpqWTNfeXV4aFY2ZU4zM2hsc3pyVlloMDU1NkZyUUg3Y1dUaVJReUd3aDdpZmJsZk1zSHNrLTJZMFRPWjZEWVByelZn?oc=5
+**Published:** Tue, 28 Oct 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDRTc0VaaTdyaVFBbjRMbFljYV9XeHBCWGd0NlZUM3BFVDJtTVBEWGN4cGo4WG9MU1ZPMzZZMTBoUW93ejhXbFBWRGJzVVdiWWxBT0paNHVUNno1Z24zNkxtTHRwSXN1NnlpNUZRZnpqWTNfeXV4aFY2ZU4zM2hsc3pyVlloMDU1NkZyUUg3Y1dUaVJReUd3aDdpZmJsZk1zSHNrLTJZMFRPWjZEWVByelZn?oc=5" target="_blank">Driving Digital Change: How Technology Is Reshaping the Insurance Core Systems Landscape</a>&nbsp;&nbsp;<font color="#6f6f6f">Entrepreneur</font>
+
+---
+
+## 23. HDFC ERGO adopts Duck Creek SaaS for health insurance - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXREUWpCSXppTzdocmxGYklUR29BUGlEM3gyamNmdTNVZlM5LXRIaUFiaXdMN3cweFVBdnAxN0lwaWRlUHVyUUxOc0xMeV9sQm5YYnRnblo5ZlZ6SUtQLVZHZnFYSmRwLTJ4S0lDZDhOaHNveU4yQ0I0REd4R1BFNExQZ3RXb2N0RFU5RGpWUG0tQQ?oc=5
+**Published:** Tue, 26 Aug 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXREUWpCSXppTzdocmxGYklUR29BUGlEM3gyamNmdTNVZlM5LXRIaUFiaXdMN3cweFVBdnAxN0lwaWRlUHVyUUxOc0xMeV9sQm5YYnRnblo5ZlZ6SUtQLVZHZnFYSmRwLTJ4S0lDZDhOaHNveU4yQ0I0REd4R1BFNExQZ3RXb2N0RFU5RGpWUG0tQQ?oc=5" target="_blank">HDFC ERGO adopts Duck Creek SaaS for health insurance</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 24. New Zealand's Medical Assurance Society (MAS) Selects Duck Creek Technologies for Core Insurance Modernization - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdGp4eG9xVVpoNW9BTHJRX25nRjlWNEZHUzEycjQ0RThFMENCSmFjR2w4cHZjdUx6cEE0OHMtTzdVcEpTVnhqTWNnR05YdlVvbU1FUENhOVNVLU1Ub1N4LWdFbG92bHpKUFVnUEZiU1F5TXExVTBhU2RwZGczMG1Rc2w3RzQ3RmxPdDJxTkRjTUxJYmEyRkg3NG5TMGxyaU5sZzAwZUhaaE9BMkhnRkU0ckFEOFVfVEYtYm91VEg2U0tXZVdXQ0xGeWFGdzVnSWRuQ2dHemtUdEhIcllsN2lwb0pMVFhkdGdxMmgyM2FmZFBRRl9QVVZHaGpGME8?oc=5
+**Published:** Tue, 24 Feb 2026 22:09:50 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdGp4eG9xVVpoNW9BTHJRX25nRjlWNEZHUzEycjQ0RThFMENCSmFjR2w4cHZjdUx6cEE0OHMtTzdVcEpTVnhqTWNnR05YdlVvbU1FUENhOVNVLU1Ub1N4LWdFbG92bHpKUFVnUEZiU1F5TXExVTBhU2RwZGczMG1Rc2w3RzQ3RmxPdDJxTkRjTUxJYmEyRkg3NG5TMGxyaU5sZzAwZUhaaE9BMkhnRkU0ckFEOFVfVEYtYm91VEg2U0tXZVdXQ0xGeWFGdzVnSWRuQ2dHemtUdEhIcllsN2lwb0pMVFhkdGdxMmgyM2FmZFBRRl9QVVZHaGpGME8?oc=5" target="_blank">New Zealand's Medical Assurance Society (MAS) Selects Duck Creek Technologies for Core Insurance Modernization</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 25. [Latest] Global Life Insurance Policy Administration System Market Size/Share Worth USD 5.9 Billion by 2034 at a 6.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Growth Rate, Value, SWOT Analysis) - GlobeNewswire
+
+**Link:** https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTjBCMkYxMC03ZEE3OHFFR19qYU9mb0NUR2pjc3ZHTmgwQ2NQZmYwaEtLLWpCM2U4bEMxWm1VOVlvTFNINW9qeUs0OFN1MElOYVp5SnlGeHhZbjhWbkZDS0kxRTNONWMyMUg3aVZyVHRoR0VxR3hJWmU4bkdMLTlmeV80WVR5dVFLT3dmM25IWU9KQVU1OURTdEtIS2N6Sjl5LWw2SDRFWUZoc25JSldHWEJCRGU0NmoyNUZvWWtSQVpRMGZGNjVELTVRZEZvdFZmWVdURGItcjFHUDdWOWJacFJWNTVPNU54V0JaWkJlQkcyVTVpWXRuVUlQV2V3dUdieTJXMXVQNVdHbDd0WVp1eXVEb3VoNXROWTNrSjZoTzdSV3NXeU5leXp0REhaVk9Qd0xtdHVKOTJRRGkycTNLeFF3S0tmVUg1SnVtb1UyTG0yRWhiVHREWnlUWjZWdnF0dV8xYlBwMV8wa3h4?oc=5
+**Published:** Tue, 20 Jan 2026 08:00:00 GMT
+**Source:** "Majesco Insurity Sapiens insurance software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTjBCMkYxMC03ZEE3OHFFR19qYU9mb0NUR2pjc3ZHTmgwQ2NQZmYwaEtLLWpCM2U4bEMxWm1VOVlvTFNINW9qeUs0OFN1MElOYVp5SnlGeHhZbjhWbkZDS0kxRTNONWMyMUg3aVZyVHRoR0VxR3hJWmU4bkdMLTlmeV80WVR5dVFLT3dmM25IWU9KQVU1OURTdEtIS2N6Sjl5LWw2SDRFWUZoc25JSldHWEJCRGU0NmoyNUZvWWtSQVpRMGZGNjVELTVRZEZvdFZmWVdURGItcjFHUDdWOWJacFJWNTVPNU54V0JaWkJlQkcyVTVpWXRuVUlQV2V3dUdieTJXMXVQNVdHbDd0WVp1eXVEb3VoNXROWTNrSjZoTzdSV3NXeU5leXp0REhaVk9Qd0xtdHVKOTJRRGkycTNLeFF3S0tmVUg1SnVtb1UyTG0yRWhiVHREWnlUWjZWdnF0dV8xYlBwMV8wa3h4?oc=5" target="_blank">[Latest] Global Life Insurance Policy Administration System Market Size/Share Worth USD 5.9 Billion by 2034 at a 6.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Growth Rate, Value, SWOT Analysis)</a
+
+---
+
+## 26. AI in Insurance Market Size, Share | Industry Report, 2034 - Fortune Business Insights
+
+**Link:** https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNm1JTUNCU1NKcTdvcldMU1NvUWJxMlRBYTREMklUWWl2Nzg2Tks1NXcybFZEVVZwM2pUSWhzODBsUkhaYjIxZmllYzFaN0JnZ3JPUk5IUF9XS0x1MTN5djlwcXYwcHkzVHY0aTdUZEVMYS0xSC11aA?oc=5
+**Published:** Tue, 16 Dec 2025 16:44:21 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNm1JTUNCU1NKcTdvcldMU1NvUWJxMlRBYTREMklUWWl2Nzg2Tks1NXcybFZEVVZwM2pUSWhzODBsUkhaYjIxZmllYzFaN0JnZ3JPUk5IUF9XS0x1MTN5djlwcXYwcHkzVHY0aTdUZEVMYS0xSC11aA?oc=5" target="_blank">AI in Insurance Market Size, Share | Industry Report, 2034</a>&nbsp;&nbsp;<font color="#6f6f6f">Fortune Business Insights</font>
+
+---
+
+## 27. The future of AI in the insurance industry - McKinsey & Company
+
+**Link:** https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm13WXlMb2lQZTZ2dXNjOGU5enRJZ3NRSlkxVGV6RlYtYUFQUWhJZUJDR3BybXpzc3dYclpiZnNvbGxPWjcyTzVsd29vczFsTUl6NFhGbjJ0RWlOMHgzOVhqTUpMVkx6S09QZTFqM0tEODhuS0Rqd1RidlJMWXd4ZWV2Qm45VDFpZ0hLVzh4R0lJMmZXOW9sZGJkNFlrN25MUEhOUnBlRk9KdldfYkow?oc=5
+**Published:** Tue, 15 Jul 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm13WXlMb2lQZTZ2dXNjOGU5enRJZ3NRSlkxVGV6RlYtYUFQUWhJZUJDR3BybXpzc3dYclpiZnNvbGxPWjcyTzVsd29vczFsTUl6NFhGbjJ0RWlOMHgzOVhqTUpMVkx6S09QZTFqM0tEODhuS0Rqd1RidlJMWXd4ZWV2Qm45VDFpZ0hLVzh4R0lJMmZXOW9sZGJkNFlrN25MUEhOUnBlRk9KdldfYkow?oc=5" target="_blank">The future of AI in the insurance industry</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>
+
+---
+
+## 28. Hardeep Gulati named CEO of Duck Creek Technologies - Reinsurance News
+
+**Link:** https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXZGWmt4eXFqZm5UNXpmaVd4RUdHMF9qOWplRVZXOWhzX21uaTNWU3FsbGJuc20ya3pORGpGSE1PSEVpZkVtNDRwY29ZR3Bvcm5tRXBsYXdHUEVsdjd5XzNUTndnNkRpdTk5eTAzYXFtVTFDdHFHcDJsYzBhNFNJY24xc18zUmZ6?oc=5
+**Published:** Tue, 14 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXZGWmt4eXFqZm5UNXpmaVd4RUdHMF9qOWplRVZXOWhzX21uaTNWU3FsbGJuc20ya3pORGpGSE1PSEVpZkVtNDRwY29ZR3Bvcm5tRXBsYXdHUEVsdjd5XzNUTndnNkRpdTk5eTAzYXFtVTFDdHFHcDJsYzBhNFNJY24xc18zUmZ6?oc=5" target="_blank">Hardeep Gulati named CEO of Duck Creek Technologies</a>&nbsp;&nbsp;<font color="#6f6f6f">Reinsurance News</font>
+
+---
+
+## 29. Duck Creek Names Hardeep Gulati as New CEO - Insurance Innovation Reporter
+
+**Link:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUVSYVYtS0Y1akN6TDNQazg4MFk0N3RzZk9XbVJKTGI5dHpycXNHZDIwODRyanBfTUVYRkxmUGNpa0N2YTdHbHh5VnRYZDZZcjFUbnkxSERreUxHQXVaM3BCNE82a3N3RFFyWG0wZ3RsSEV4Tk9fVkY5THg5SEtaZndHdXZvbElrbW16bDM1RFA?oc=5
+**Published:** Tue, 14 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUVSYVYtS0Y1akN6TDNQazg4MFk0N3RzZk9XbVJKTGI5dHpycXNHZDIwODRyanBfTUVYRkxmUGNpa0N2YTdHbHh5VnRYZDZZcjFUbnkxSERreUxHQXVaM3BCNE82a3N3RFFyWG0wZ3RsSEV4Tk9fVkY5THg5SEtaZndHdXZvbElrbW16bDM1RFA?oc=5" target="_blank">Duck Creek Names Hardeep Gulati as New CEO</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Innovation Reporter</font>
+
+---
+
+## 30. Duck Creek names new CEO - businessinsurance.com
+
+**Link:** https://news.google.com/rss/articles/CBMia0FVX3lxTFBRVjY0emZoeW5NRldFbjBSTFZvSlkxT2xRS1dxMzNFWEZWdThqdTl4S0F5WkRtUHB1dkxwYUpMS3VQNkJ2QUhodVJjaFc0b3ZndjFwVEpRZ1cyZUt3bFZnaTBvTC1UTzNaQWs4?oc=5
+**Published:** Tue, 14 Oct 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBRVjY0emZoeW5NRldFbjBSTFZvSlkxT2xRS1dxMzNFWEZWdThqdTl4S0F5WkRtUHB1dkxwYUpMS3VQNkJ2QUhodVJjaFc0b3ZndjFwVEpRZ1cyZUt3bFZnaTBvTC1UTzNaQWs4?oc=5" target="_blank">Duck Creek names new CEO</a>&nbsp;&nbsp;<font color="#6f6f6f">businessinsurance.com</font>
+
+---
+
+## 31. Jose Lazares joins Duck Creek Technologies as CPO - Reinsurance News
+
+**Link:** https://news.google.com/rss/articles/CBMihgFBVV95cUxONl9lZ2lXMkRlMnV6MlV5TWJJY3pkODdmZU4xVEQySDFPdzVFaUdXN1NaRnhueG9rUGh2dTJzdW1LdnJac0NJdm9VSmtUOEU4X3duNlBvRWVhMGM4MFp1LU9mbjZHNTFXS1BpUmtYbXNlMVVfSmR1bG1ONG9od3NXQjRodVVldw?oc=5
+**Published:** Tue, 13 Jan 2026 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxONl9lZ2lXMkRlMnV6MlV5TWJJY3pkODdmZU4xVEQySDFPdzVFaUdXN1NaRnhueG9rUGh2dTJzdW1LdnJac0NJdm9VSmtUOEU4X3duNlBvRWVhMGM4MFp1LU9mbjZHNTFXS1BpUmtYbXNlMVVfSmR1bG1ONG9od3NXQjRodVVldw?oc=5" target="_blank">Jose Lazares joins Duck Creek Technologies as CPO</a>&nbsp;&nbsp;<font color="#6f6f6f">Reinsurance News</font>
+
+---
+
+## 32. Zelis teams up with Duck Creek to expand into P&C insurance sector - Life Insurance International
+
+**Link:** https://news.google.com/rss/articles/CBMic0FVX3lxTE41b2pTRkt0aFVDdVpKTmRLNzZQNFFHcWkySmx4THpnN29zQWJtUzdaQVJzUnFGM3l5WWU2VDE1TTZjd2Y4V2lNZnRjWDVOa0NSNVB3bHJPUTV0b2NDNENiQ0h2dTc1V2lidjNWS0xqQnVneEU?oc=5
+**Published:** Tue, 11 Nov 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE41b2pTRkt0aFVDdVpKTmRLNzZQNFFHcWkySmx4THpnN29zQWJtUzdaQVJzUnFGM3l5WWU2VDE1TTZjd2Y4V2lNZnRjWDVOa0NSNVB3bHJPUTV0b2NDNENiQ0h2dTc1V2lidjNWS0xqQnVneEU?oc=5" target="_blank">Zelis teams up with Duck Creek to expand into P&amp;C insurance sector</a>&nbsp;&nbsp;<font color="#6f6f6f">Life Insurance International</font>
+
+---
+
+## 33. DA Davidson Reiterates "Buy" Rating for Guidewire Software (NYSE:GWRE) - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHYxWnI3alBpamtDX2k1N2lhV0lrMXA0V1M4U3ZKLWFhUF9UdGg1UVZXQ1lJY1pkNkY1TE1pZ0s0aXV2cnB1V0xLSENlN1JnU2Z0WEoxVExPb0VpUVhGLUdIaml5Y2VYd0lCNG9kcHFjdi1wS0ZNeUpzWGdVa3oxd2p1WnBVZ2hpZTdkQzFISjIwdXlpR016V2RZTEhsdHlxTzMyRHZSQkx1XzR4elVXNGtXcGZYT0ZXZU9V?oc=5
+**Published:** Tue, 10 Mar 2026 15:16:00 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHYxWnI3alBpamtDX2k1N2lhV0lrMXA0V1M4U3ZKLWFhUF9UdGg1UVZXQ1lJY1pkNkY1TE1pZ0s0aXV2cnB1V0xLSENlN1JnU2Z0WEoxVExPb0VpUVhGLUdIaml5Y2VYd0lCNG9kcHFjdi1wS0ZNeUpzWGdVa3oxd2p1WnBVZ2hpZTdkQzFISjIwdXlpR016V2RZTEhsdHlxTzMyRHZSQkx1XzR4elVXNGtXcGZYT0ZXZU9V?oc=5" target="_blank">DA Davidson Reiterates "Buy" Rating for Guidewire Software (NYSE:GWRE)</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 34. Guidewire Software’s (NYSE:GWRE) Q4 CY2025 sales top estimates - MSN
+
+**Link:** https://news.google.com/rss/articles/CBMiswFBVV95cUxObDlHWTZGdFNtSFVsTnhiaXRELW91NVRTRDRBcHh0d3d6aUpFWkMzc0xIZy05bzFhZVR5WTNHTW5XSjR3TXdpbDhwbW9zYTlJSVc0N3FxXzR5bDI0dHNrUTJJZUp5M1hhUndqZUNwNmhjMGYwUlFxNjdfbGsyb21iQ2pQQmhUc05rT2NPN0ZvRmVvTndnVG1wREFmeUFfLXR0SlJvZWV1czk4ZUlpZ0VOY052MA?oc=5
+**Published:** Tue, 10 Mar 2026 14:45:57 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxObDlHWTZGdFNtSFVsTnhiaXRELW91NVRTRDRBcHh0d3d6aUpFWkMzc0xIZy05bzFhZVR5WTNHTW5XSjR3TXdpbDhwbW9zYTlJSVc0N3FxXzR5bDI0dHNrUTJJZUp5M1hhUndqZUNwNmhjMGYwUlFxNjdfbGsyb21iQ2pQQmhUc05rT2NPN0ZvRmVvTndnVG1wREFmeUFfLXR0SlJvZWV1czk4ZUlpZ0VOY052MA?oc=5" target="_blank">Guidewire Software’s (NYSE:GWRE) Q4 CY2025 sales top estimates</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font>
+
+---
+
+## 35. International Markets and Guidewire Software (GWRE): A Deep Dive for Investors - Yahoo Finance
+
+**Link:** https://news.google.com/rss/articles/CBMilgFBVV95cUxOVG15aHJ2U3B6bG5YcmU2VkVvNmthT1FEZFBuTzdzMDRWRDFoN0t3Z2ZYOEZGVndWWUNyVzNFU0pVekt5enVZbE5wbWx6V3BaRFgxb0dIR1d0MGJEU2I0Z1VVaXA5aXR4WFdKejB0YjI4NXVCMW5telp3N25IT1hMOHI4WUVUanV2OU52SWhCV0I2Z280Z0E?oc=5
+**Published:** Tue, 10 Mar 2026 13:15:02 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOVG15aHJ2U3B6bG5YcmU2VkVvNmthT1FEZFBuTzdzMDRWRDFoN0t3Z2ZYOEZGVndWWUNyVzNFU0pVekt5enVZbE5wbWx6V3BaRFgxb0dIR1d0MGJEU2I0Z1VVaXA5aXR4WFdKejB0YjI4NXVCMW5telp3N25IT1hMOHI4WUVUanV2OU52SWhCV0I2Z280Z0E?oc=5" target="_blank">International Markets and Guidewire Software (GWRE): A Deep Dive for Investors</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font>
+
+---
+
+## 36. Country-Wide Insurance Selects Duck Creek Clarity to Drive Insight-Led Growth - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFdWYmFNcG93c1JnU0txTW0tb2d2UjNPMEdWeFdkNHEwX0ZyN2xNTkxCNXdYSXlhdTA2ZjZsc2ZlQzFVem9GekQyRFBTVjJMYWVGVXJULTZGQzl0bVVPU3ZTMmxDU2twRlB3c0tSSnVpbUtwUTBMUHBZYUEwMmZKSjJzb3VNV282WDYxMnlhR1EtcUR1TnZvTzBleDZ1TDkxTXB6Z1V3NGRSSXpCeEl3SHFaVU9LRDNWcU1BUHRnM2kybktoUVJfNUtkTnlSUQ?oc=5
+**Published:** Tue, 10 Mar 2026 12:01:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFdWYmFNcG93c1JnU0txTW0tb2d2UjNPMEdWeFdkNHEwX0ZyN2xNTkxCNXdYSXlhdTA2ZjZsc2ZlQzFVem9GekQyRFBTVjJMYWVGVXJULTZGQzl0bVVPU3ZTMmxDU2twRlB3c0tSSnVpbUtwUTBMUHBZYUEwMmZKSjJzb3VNV282WDYxMnlhR1EtcUR1TnZvTzBleDZ1TDkxTXB6Z1V3NGRSSXpCeEl3SHFaVU9LRDNWcU1BUHRnM2kybktoUVJfNUtkTnlSUQ?oc=5" target="_blank">Country-Wide Insurance Selects Duck Creek Clarity to Drive Insight-Led Growth</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 37. Insider Selling: Guidewire Software (NYSE:GWRE) CEO Sells 1,200 Shares of Stock - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFBaZWk3WF95WFV0eUlfRThrNXR6bjRUNUNQQmVvS3JRWUxQdlhRdngtRHdqeng1NzJCaUFIdHV4ODBiMlVEYi1NMXVSa0ZBWXlmZ0g1ZXIzWW0zWG5Laml1aGE3VjdIUzB3TWNKOWpVVmdSbkJraDN0ZmE1UTY1VGRDemVFOGhXdkFiSEY1UE9wZ1NfTi1rNDN3M0xPV0cwM0E1bG9QNkZETEhrSVlueWd2b0NyV19CMzd0QjRiS1dKNFpFSXJv?oc=5
+**Published:** Tue, 10 Mar 2026 02:15:13 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFBaZWk3WF95WFV0eUlfRThrNXR6bjRUNUNQQmVvS3JRWUxQdlhRdngtRHdqeng1NzJCaUFIdHV4ODBiMlVEYi1NMXVSa0ZBWXlmZ0g1ZXIzWW0zWG5Laml1aGE3VjdIUzB3TWNKOWpVVmdSbkJraDN0ZmE1UTY1VGRDemVFOGhXdkFiSEY1UE9wZ1NfTi1rNDN3M0xPV0cwM0E1bG9QNkZETEhrSVlueWd2b0NyV19CMzd0QjRiS1dKNFpFSXJv?oc=5" target="_blank">Insider Selling: Guidewire Software (NYSE:GWRE) CEO Sells 1,200 Shares of Stock</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 38. Anchor Group Management Inc. Selects Duck Creek to Power Modern Insurance Payments - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmpaR2dxYjRJMDh4Z2owVDJuSzJBX1JyMVVZZXh0UU5rNk9sdGJJWHZoSHVPQl9CM1dqc29BaV9PQU5DanduMUFXRDkzcF9yQ3QtUWE1eFlPUXhGMXhzMVJSbVdYRHpMUU9KalNFT2V6N1M1VjZ4cFI1MFBTYTR2enRjUWphTktSbkRkQkFrbDZpN1hvOEJjWDhQdVdaTWN5aWRfSHFmazdDc1V1ZlJGUHZzaWt0T05JelB3NDB0Q0ExazVLdmFuNFNVeWFZYzRCMUVJ?oc=5
+**Published:** Tue, 10 Feb 2026 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmpaR2dxYjRJMDh4Z2owVDJuSzJBX1JyMVVZZXh0UU5rNk9sdGJJWHZoSHVPQl9CM1dqc29BaV9PQU5DanduMUFXRDkzcF9yQ3QtUWE1eFlPUXhGMXhzMVJSbVdYRHpMUU9KalNFT2V6N1M1VjZ4cFI1MFBTYTR2enRjUWphTktSbkRkQkFrbDZpN1hvOEJjWDhQdVdaTWN5aWRfSHFmazdDc1V1ZlJGUHZzaWt0T05JelB3NDB0Q0ExazVLdmFuNFNVeWFZYzRCMUVJ?oc=5" target="_blank">Anchor Group Management Inc. Selects Duck Creek to Power Modern Insurance Payments</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 39. Majesco Recognized as the Top Leader in QKS Group's 2025 SPARK Matrix™ for Both P&C Core Insurance Platform and Life Insurance Policy Administration Systems - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMiswJBVV95cUxPSGkyakhobjE5QjZodUdvZHphU29PNm5rVHpUbndRT0tTOHJhcVVJRnI1Wjg2ZThObTFydkJUdmJwZWtkSmZPWXhnOTFhQ3ppdy0wemk2VE5XTnQ3UHRQa3IxWTJ1QjduQXlleTZPOTh2aExzWnZFU3kxRFFqSGFjWGxkMGFpWlFqR3NQOERqcFdnUU56emlKVVFJbG5va3p6T1l0X3lEOWhVTVRnUkdBaGNpRUZoMHRGclExbVBwUDVXS0tIcnBQVnpYR0NRcGFSdmxTYjNDMDhZTC1ubmk2c0dETFY4ZVktVS03ODNaRHBuLXRGSVNOTHIzMkYtNElpa3ozc215MzBMZkJBa0I3cU5LMXlLb0hCR2NLRld2MElkOHdwRTNuNWJ4bG94ZGllc3Fz?oc=5
+**Published:** Tue, 10 Feb 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiswJBVV95cUxPSGkyakhobjE5QjZodUdvZHphU29PNm5rVHpUbndRT0tTOHJhcVVJRnI1Wjg2ZThObTFydkJUdmJwZWtkSmZPWXhnOTFhQ3ppdy0wemk2VE5XTnQ3UHRQa3IxWTJ1QjduQXlleTZPOTh2aExzWnZFU3kxRFFqSGFjWGxkMGFpWlFqR3NQOERqcFdnUU56emlKVVFJbG5va3p6T1l0X3lEOWhVTVRnUkdBaGNpRUZoMHRGclExbVBwUDVXS0tIcnBQVnpYR0NRcGFSdmxTYjNDMDhZTC1ubmk2c0dETFY4ZVktVS03ODNaRHBuLXRGSVNOTHIzMkYtNElpa3ozc215MzBMZkJBa0I3cU5LMXlLb0hCR2NLRld2MElkOHdwRTNuNWJ4bG94ZGllc3Fz?oc=5" target="_blank">Majesco Recognized as the Top Leader in QKS Group's 2025 SPARK Matrix™ for Both P&amp;C Core Insurance Platform and Life Insurance Policy Administration Systems</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 40. Indigo Insurance Selects Duck Creek OnDemand to Accelerate Modernization and Support Rapid Growth - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX080S2ZMdXo5VVFCSG8wdVNjSzJqN0dfM1lSbWtXSDI2aXE5MEI4WHZINlVhcnFBZjJ3YlhDWTNVcS1lX0JPUmh5aVVYZWo1ODluZWFiUDhnTEFsZlpmLTMzVGE4OVZnQzNwZmJGa0J4S0RyRmxKTE9UalpycGZEd3ZGS0JqRmtFV0hXR1EzcGVpZ0RpUEVhTS1hc2J3X3lnYzFQNGExcWJYOTlEZUtmRUJKYThBMFBxNGNkeG5Eam4taWcyd1BaTDNDYmFrSUN5MzRENUlVVVZOcXJqUVQzMW1BektNQ3Z6?oc=5
+**Published:** Tue, 09 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX080S2ZMdXo5VVFCSG8wdVNjSzJqN0dfM1lSbWtXSDI2aXE5MEI4WHZINlVhcnFBZjJ3YlhDWTNVcS1lX0JPUmh5aVVYZWo1ODluZWFiUDhnTEFsZlpmLTMzVGE4OVZnQzNwZmJGa0J4S0RyRmxKTE9UalpycGZEd3ZGS0JqRmtFV0hXR1EzcGVpZ0RpUEVhTS1hc2J3X3lnYzFQNGExcWJYOTlEZUtmRUJKYThBMFBxNGNkeG5Eam4taWcyd1BaTDNDYmFrSUN5MzRENUlVVVZOcXJqUVQzMW1BektNQ3Z6?oc=5" target="_blank">Indigo Insurance Selects Duck Creek OnDemand to Accelerate Modernization and Support Rapid Growth</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 41. Indigo Insurance Chooses Duck Creek to Modernize Operations - Insurance Innovation Reporter
+
+**Link:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHBiNUZ3Q0JnRTN4eGdBZ0VRenRMNHFoZ21qQnN0MVZIWFF0SEdNODh6SXJzX0ZlbENiWFBmZWozTXdjU2JRV05FMGNNX2xoSlI0SU85OFdiZUFzLTV1U1lXUUJTYmJmMEx1bktKTklkR182QVRDRlA5cU0wcGJLTkN4SmpQaWdqcnQw?oc=5
+**Published:** Tue, 09 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHBiNUZ3Q0JnRTN4eGdBZ0VRenRMNHFoZ21qQnN0MVZIWFF0SEdNODh6SXJzX0ZlbENiWFBmZWozTXdjU2JRV05FMGNNX2xoSlI0SU85OFdiZUFzLTV1U1lXUUJTYmJmMEx1bktKTklkR182QVRDRlA5cU0wcGJLTkN4SmpQaWdqcnQw?oc=5" target="_blank">Indigo Insurance Chooses Duck Creek to Modernize Operations</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Innovation Reporter</font>
+
+---
+
+## 42. InvoiceCloud and Duck Creek Technologies Announce Integrated Solution to Support Digital Transformation for Insurers Across the Country - Business Wire
+
+**Link:** https://news.google.com/rss/articles/CBMinAJBVV95cUxQYUxCM1M5dkdlREhjaU9pVlUxTDZJZC1TWVlpU2llVDBDd0RwWEs4eUZ2ZFFybml4RHVMWnZBVmRjZjY2cUFzY0FrcG1JUnV2ckhhYTZ4UW83WjNoTF9Ob2plUHA4OFg2c05CWnRFdlI1c2tQYWZqQkN0RjB0a2hGWnFEa1YxZ3Z0OEJ0UEZWQVU2TFRRenZlMmExTHBOSExSQVVxajBkbk5ZRzA0bVdPWk1mbVR0dVB6aThKUWRoUlFrSkR2WHFnTEVDVWp5U3FEaUhpQ0N2UmZ1dmxCVEJGNlhjMzgzSy1oTExmLTFMX29kaGZNMmhfdzJqLTBfN1NTdWZYZ0pfUnoyTnViNHRlZThrWjUxTnZ5a0I4Tw?oc=5
+**Published:** Tue, 04 Nov 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMinAJBVV95cUxQYUxCM1M5dkdlREhjaU9pVlUxTDZJZC1TWVlpU2llVDBDd0RwWEs4eUZ2ZFFybml4RHVMWnZBVmRjZjY2cUFzY0FrcG1JUnV2ckhhYTZ4UW83WjNoTF9Ob2plUHA4OFg2c05CWnRFdlI1c2tQYWZqQkN0RjB0a2hGWnFEa1YxZ3Z0OEJ0UEZWQVU2TFRRenZlMmExTHBOSExSQVVxajBkbk5ZRzA0bVdPWk1mbVR0dVB6aThKUWRoUlFrSkR2WHFnTEVDVWp5U3FEaUhpQ0N2UmZ1dmxCVEJGNlhjMzgzSy1oTExmLTFMX29kaGZNMmhfdzJqLTBfN1NTdWZYZ0pfUnoyTnViNHRlZThrWjUxTnZ5a0I4Tw?oc=5" target="_blank">InvoiceCloud and Duck Creek Technologies Announce Integrated Solution to Support Digital Transformation for Insurers Across the Country</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Wire</font>
+
+---
+
+## 43. Preparing for an AI Native Future - Carrier Management
+
+**Link:** https://news.google.com/rss/articles/CBMickFVX3lxTE9GYTFyMUhWSUxqMkFRTVVGeGFuZVRzaF9XV0x5ZzBYQTJzdkNiMS05VG0tM1RlOVNPa2JRd0JDMTlKNldXUUtaNUFWMVBpTHI4YU90Vm1sY0wzTnNpNUlzTnk5TTRoRFY4Um1SQzRKMmN6UQ?oc=5
+**Published:** Tue, 03 Feb 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9GYTFyMUhWSUxqMkFRTVVGeGFuZVRzaF9XV0x5ZzBYQTJzdkNiMS05VG0tM1RlOVNPa2JRd0JDMTlKNldXUUtaNUFWMVBpTHI4YU90Vm1sY0wzTnNpNUlzTnk5TTRoRFY4Um1SQzRKMmN6UQ?oc=5" target="_blank">Preparing for an AI Native Future</a>&nbsp;&nbsp;<font color="#6f6f6f">Carrier Management</font>
+
+---
+
+## 44. Duck Creek Names Rajesh Raheja CTO - Insurance Innovation Reporter
+
+**Link:** https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VWllaVpjTFpTUDVZR2xMWUQ1VW5LZWFpM25wSDF5bWJJZS1kNVpEZDJoSHhSOVJCc0stNTJkdjF5TDVFRE16NDVMamdpdFVrdTVENTVFT2RpdHlxRjJYcGl6SzJaUVdwVHc?oc=5
+**Published:** Tue, 02 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VWllaVpjTFpTUDVZR2xMWUQ1VW5LZWFpM25wSDF5bWJJZS1kNVpEZDJoSHhSOVJCc0stNTJkdjF5TDVFRE16NDVMamdpdFVrdTVENTVFT2RpdHlxRjJYcGl6SzJaUVdwVHc?oc=5" target="_blank">Duck Creek Names Rajesh Raheja CTO</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Innovation Reporter</font>
+
+---
+
+## 45. Duck Creek Technologies Announces Veteran Enterprise Technology Leader Rajesh Raheja as Chief Technology Officer - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdXFVRUxWT3JISnFRV2lGcFlFLWRaaXdsOWNHMUtRb2E5VzUtdzNJNXdPbnd2RDhlNXhvU0NjQzhtYWdyNEo2X2I5aC1GZUl0aFFVOHhVMTJDcnJyaGZkS3BTaUY5SmZCVWNPMU9GcWQ1VVZrTUhVUWd1R0VJcUE0cHpGcFpDY18tNF9KYW9DS0ZqSmlvRkdUNEdzUldNYVl1QWhXYjc3ZllNbEhSeFhxQThmdC1vYjFYV2ROVVFwV2VJV0NudWtzOTBYdElvaVkzdEZYdkw0SFpBLW1rUVJCbFd5cHRIN0dDNTcySmY0QjFQNDVJYzEwaGd0c2g?oc=5
+**Published:** Tue, 02 Dec 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdXFVRUxWT3JISnFRV2lGcFlFLWRaaXdsOWNHMUtRb2E5VzUtdzNJNXdPbnd2RDhlNXhvU0NjQzhtYWdyNEo2X2I5aC1GZUl0aFFVOHhVMTJDcnJyaGZkS3BTaUY5SmZCVWNPMU9GcWQ1VVZrTUhVUWd1R0VJcUE0cHpGcFpDY18tNF9KYW9DS0ZqSmlvRkdUNEdzUldNYVl1QWhXYjc3ZllNbEhSeFhxQThmdC1vYjFYV2ROVVFwV2VJV0NudWtzOTBYdElvaVkzdEZYdkw0SFpBLW1rUVJCbFd5cHRIN0dDNTcySmY0QjFQNDVJYzEwaGd0c2g?oc=5" target="_blank">Duck Creek Technologies Announces Veteran Enterprise Technology Leader Rajesh Raheja as Chief Technology Officer</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 46. Why AI pilots won’t save insurers that ignore their plumbing - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFZRU09pajRvS0hYRjRoRkl1Q0hxSlBUdUtaVHZiWFhZR3dmaEROLThoZ1F0YmI0dE5qMjRiZ3RZRTlWZ0hDdzBCZUMyM1lSZmFucDVjNXVER2RLMEF0ZjAyYS1PSmpPd2tfU1Y0LU5vTjFqbFY2YktKSFlkSEhFX1oxQW9UZ3luc0NmTDhYc1ZwLVZOVk14SXNfVzNCLVB1LXQzMExpOERoVzdINjVZcm5aeS04UzlEbkNWSkxsdUNzVVRvRXc?oc=5
+**Published:** Thu, 26 Feb 2026 15:23:43 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFZRU09pajRvS0hYRjRoRkl1Q0hxSlBUdUtaVHZiWFhZR3dmaEROLThoZ1F0YmI0dE5qMjRiZ3RZRTlWZ0hDdzBCZUMyM1lSZmFucDVjNXVER2RLMEF0ZjAyYS1PSmpPd2tfU1Y0LU5vTjFqbFY2YktKSFlkSEhFX1oxQW9UZ3luc0NmTDhYc1ZwLVZOVk14SXNfVzNCLVB1LXQzMExpOERoVzdINjVZcm5aeS04UzlEbkNWSkxsdUNzVVRvRXc?oc=5" target="_blank">Why AI pilots won’t save insurers that ignore their plumbing</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 47. Axxis Systems | Top Next Generation Core Insurance Software-2025 - Insurance CIO Outlook
+
+**Link:** https://news.google.com/rss/articles/CBMiXkFVX3lxTE04dlJkMTl3RWhuWGVhOTl6Z0Q5RGNjNy1JdDMyeExzQWVLajV2MnZsMmdKZDBMM09aS2tocVhtazU0dm9pZTA4Q29rVGVDWmQ1VllsNHBZcm15eWpaNnc?oc=5
+**Published:** Thu, 21 Aug 2025 10:28:54 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE04dlJkMTl3RWhuWGVhOTl6Z0Q5RGNjNy1JdDMyeExzQWVLajV2MnZsMmdKZDBMM09aS2tocVhtazU0dm9pZTA4Q29rVGVDWmQ1VllsNHBZcm15eWpaNnc?oc=5" target="_blank">Axxis Systems | Top Next Generation Core Insurance Software-2025</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance CIO Outlook</font>
+
+---
+
+## 48. Digital Engineering Reshapes Insurance Operations, Innovation - Business Wire
+
+**Link:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMENFS2xKZE1odWJJSlFXN2tTQzV4b2l6enB3YTVHTW0ySFlNTFZKTkZLeG1oajhMSzA2a2pEMEF0QkdkSi1jSE0tb2k2Z29ja0ZhMTVMaTBVUDZNWVB1TWt3VlFEd3BIeHJzZ24zNXozN2N6NzVIX0JWLVd4Ym5PWVM4bGI0dXgxUEpjaUFrWXhhOTFlaVVYdTZkeTZ3NHFRb0ZxenJOWjA3SnVZaThjQ2cxeUZfdTN4?oc=5
+**Published:** Thu, 18 Dec 2025 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMENFS2xKZE1odWJJSlFXN2tTQzV4b2l6enB3YTVHTW0ySFlNTFZKTkZLeG1oajhMSzA2a2pEMEF0QkdkSi1jSE0tb2k2Z29ja0ZhMTVMaTBVUDZNWVB1TWt3VlFEd3BIeHJzZ24zNXozN2N6NzVIX0JWLVd4Ym5PWVM4bGI0dXgxUEpjaUFrWXhhOTFlaVVYdTZkeTZ3NHFRb0ZxenJOWjA3SnVZaThjQ2cxeUZfdTN4?oc=5" target="_blank">Digital Engineering Reshapes Insurance Operations, Innovation</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Wire</font>
+
+---
+
+## 49. Frankenmuth Insurance Selects Duck Creek OnDemand Distribution Management to Transform Agency and Producer Management - FF News | Fintech Finance
+
+**Link:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZmZERlRoNV96RlhaZXV5dzVtUUpUa0JVYTh6amhXUTFOMWlhOGhjQnp0LThYX3MwNWZpTExOR1VJcGpDWTJHb054MnFjT0NxT2E0Q0gzMzNlMFFPa3Vhb1R0WXQ2Y1ZHLUQ5TGVRQVpRX2phLW9nb3hONjB5WVdBclN0OTJfQjJDMnZaWHRVNVEwVzhLMmxkM3FrNEJMUnBQdDBpa0k2NFRrM2lyTkludEdZVFB1X091dUFKbXlmQkVLN1BFdUVxQnhQci1oY0piZmpzems3SFlNQ2V5UXRXeUZIUTEyck92cFJqSW5FUUs?oc=5
+**Published:** Thu, 15 Jan 2026 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZmZERlRoNV96RlhaZXV5dzVtUUpUa0JVYTh6amhXUTFOMWlhOGhjQnp0LThYX3MwNWZpTExOR1VJcGpDWTJHb054MnFjT0NxT2E0Q0gzMzNlMFFPa3Vhb1R0WXQ2Y1ZHLUQ5TGVRQVpRX2phLW9nb3hONjB5WVdBclN0OTJfQjJDMnZaWHRVNVEwVzhLMmxkM3FrNEJMUnBQdDBpa0k2NFRrM2lyTkludEdZVFB1X091dUFKbXlmQkVLN1BFdUVxQnhQci1oY0piZmpzems3SFlNQ2V5UXRXeUZIUTEyck92cFJqSW5FUUs?oc=5" target="_blank">Frankenmuth Insurance Selects Duck Creek OnDemand Distribution Management to Transform Agency and Producer Management</a>&nbsp;&nbsp;<font color="#6f6f6f">FF News | Fintech Finance</font>
+
+---
+
+## 50. IAG New Zealand Future-Proofs Claims Operations with Guidewire Cloud Platform - Business Wire
+
+**Link:** https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGZNN2MwZVlvZ2tpQ0tHbWVWWVM1S0FXY05UM2E4OFRSU29KdUZzUlhBNUhQMHRjRVFod2tybkhLaHZCT0N3UU04ZWhVQjFwSnVsaElhVzZyWVpuYkZuUjZVc1Y4N19Wc0djRV92T1o1YUU1czhKM1lwYWlHc3BzM0xpU21JZGg5YU5Jd1FkdEQ1MDVfYTVYaUxCTTN6Y0FBOWdsdzQtSGpHbTFNZzdjZ3d5azNHbEtVN0NNaXVGdFVBeC1JMmlveHo4cGk4ZkE?oc=5
+**Published:** Thu, 12 Mar 2026 20:30:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGZNN2MwZVlvZ2tpQ0tHbWVWWVM1S0FXY05UM2E4OFRSU29KdUZzUlhBNUhQMHRjRVFod2tybkhLaHZCT0N3UU04ZWhVQjFwSnVsaElhVzZyWVpuYkZuUjZVc1Y4N19Wc0djRV92T1o1YUU1czhKM1lwYWlHc3BzM0xpU21JZGg5YU5Jd1FkdEQ1MDVfYTVYaUxCTTN6Y0FBOWdsdzQtSGpHbTFNZzdjZ3d5azNHbEtVN0NNaXVGdFVBeC1JMmlveHo4cGk4ZkE?oc=5" target="_blank">IAG New Zealand Future-Proofs Claims Operations with Guidewire Cloud Platform</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Wire</font>
+
+---
+
+## 51. Shannon River Fund Management LLC Decreases Stake in Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa3lpeW84OFdzVHF4V0lwblR3RWdGTExvUlBtUHA1dmJDcDVsbTRzYXRWR3hkaEVPc2dkcHN4VHI4eU9iYlFTaFFqbFR1ck11Z25wTVRNR2hsWEstODI4LVlodFdmaE11SFhlMVNEQ2U2eWdKcWNSUWhibHR5U1NkbVpQXzRqejEtb0J3SDFBRFgzVTE0X1pvTHZkZ0p1bWVFM3BBYks3bEhhSmFsSzE3SktVMkdXdThzUUc1SzVZbFJFT1YzcnM3eVV1c2FaYnJmTnMweGY4VlE?oc=5
+**Published:** Thu, 12 Mar 2026 12:20:19 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa3lpeW84OFdzVHF4V0lwblR3RWdGTExvUlBtUHA1dmJDcDVsbTRzYXRWR3hkaEVPc2dkcHN4VHI4eU9iYlFTaFFqbFR1ck11Z25wTVRNR2hsWEstODI4LVlodFdmaE11SFhlMVNEQ2U2eWdKcWNSUWhibHR5U1NkbVpQXzRqejEtb0J3SDFBRFgzVTE0X1pvTHZkZ0p1bWVFM3BBYks3bEhhSmFsSzE3SktVMkdXdThzUUc1SzVZbFJFT1YzcnM3eVV1c2FaYnJmTnMweGY4VlE?oc=5" target="_blank">Shannon River Fund Management LLC Decreases Stake in Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 52. 4 Hidden costs of legacy insurance technology - PropertyCasualty360
+
+**Link:** https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFwTFlRQ2lPN1N3VDhURTJZYkhEeWZnTFhtUWZsb1F4cVpoS2lydU5adXZMLWFHaWpPN1ctei00Q2VWbGlVOXluRGwzVDc5M2hudXlwbEI5RkdaRzctMDdxUGRhYXFEd3dHZm1iSFY3OUdUWVBXeDZvLVgzeEhWNVJsR04wUWpGSWhhZElUV1Q4MVBqX3lacNIBngFBVV95cUxQQmhZdHBsdzBMLW11ajBra0J3XzlZZnhTV3pqajJaYUdXNGFFUkVDRGZEWXVueXotZnowRzA4VmNqQ1VCWTdUWWFnTlBRYXRrRHh0SWxBaTNOamR6MURTV2x2MnRTdjlOM3JUbXpFbVN0SnhCWDhsRGxZNzdDSFR4VVk0ZVdsWElfZFZmYVZ5YlhjbWJRcjJBQ3ZvVmI4Zw?oc=5
+**Published:** Thu, 12 Mar 2026 11:45:33 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFwTFlRQ2lPN1N3VDhURTJZYkhEeWZnTFhtUWZsb1F4cVpoS2lydU5adXZMLWFHaWpPN1ctei00Q2VWbGlVOXluRGwzVDc5M2hudXlwbEI5RkdaRzctMDdxUGRhYXFEd3dHZm1iSFY3OUdUWVBXeDZvLVgzeEhWNVJsR04wUWpGSWhhZElUV1Q4MVBqX3lacNIBngFBVV95cUxQQmhZdHBsdzBMLW11ajBra0J3XzlZZnhTV3pqajJaYUdXNGFFUkVDRGZEWXVueXotZnowRzA4VmNqQ1VCWTdUWWFnTlBRYXRrRHh0SWxBaTNOamR6MURTV2x2MnRTdjlOM3JUbXpFbVN0SnhCWDhsRGxZNzdDSFR4VVk0ZVdsWElfZFZmYVZ5YlhjbWJRcjJBQ3ZvVmI4Zw?oc=5" target="_blank">4 Hidden costs of legacy insurance technology</a>&nbsp;&nbsp;<font color="#6f6f6f">PropertyCasualty360</font>
+
+---
+
+## 53. Capital International Investors Cuts Stake in Guidewire Software - National Today
+
+**Link:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmZUYndUOXFRS0o1ZzdNckdQV3NqSUpPamJ0SDc2RHExMHh5TjNaeVZ1OVRVS3BiNjUzQjdPdzhxdlNtaEx5aG42MDdYQ05xRmRCbDBHSXc3VUxkWDMxd2RXaWZUbnJpaEdMRk0yZnN3bDZBNFNsbEpsWDRjSndOeGNxcHFLdlkyUHE1dWVvelJoaWF0VWJNUW8xUzhNM2FUTTd1dHUyVVJ1R1JkTjBlSXZaaGFTRHlxYWhCSE5GZUM?oc=5
+**Published:** Thu, 12 Mar 2026 09:21:23 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmZUYndUOXFRS0o1ZzdNckdQV3NqSUpPamJ0SDc2RHExMHh5TjNaeVZ1OVRVS3BiNjUzQjdPdzhxdlNtaEx5aG42MDdYQ05xRmRCbDBHSXc3VUxkWDMxd2RXaWZUbnJpaEdMRk0yZnN3bDZBNFNsbEpsWDRjSndOeGNxcHFLdlkyUHE1dWVvelJoaWF0VWJNUW8xUzhNM2FUTTd1dHUyVVJ1R1JkTjBlSXZaaGFTRHlxYWhCSE5GZUM?oc=5" target="_blank">Capital International Investors Cuts Stake in Guidewire Software</a>&nbsp;&nbsp;<font color="#6f6f6f">National Today</font>
+
+---
+
+## 54. Capital Fund Management S.A. Grows Stock Position in Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmxiWXNIOHZYUnFIelBHN2FTcS13STQwNV9wYUtsclhpVlFIZWxjS1lqZkc3eTdUMDJUSGVTeS10VTdjLTdLQkdVajNCakhJXzVRVVN2a0xNTFI0cUhBMlA1X3VJVXBPbUpEY0E2ZXZJNFR6RzFzcVFJNVYwdDdrRExBSEFvdTdHdnIwVGtfQjI3YVgwVk80Xzl2RVV1VVdmY0RHa01UakJKcm5Ha2l1anVGQVhvV3Jyc1ZSbjd2SnkzU21rMkI5RHFvYjVFZXh6V2VzNXJB?oc=5
+**Published:** Thu, 12 Mar 2026 08:26:59 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmxiWXNIOHZYUnFIelBHN2FTcS13STQwNV9wYUtsclhpVlFIZWxjS1lqZkc3eTdUMDJUSGVTeS10VTdjLTdLQkdVajNCakhJXzVRVVN2a0xNTFI0cUhBMlA1X3VJVXBPbUpEY0E2ZXZJNFR6RzFzcVFJNVYwdDdrRExBSEFvdTdHdnIwVGtfQjI3YVgwVk80Xzl2RVV1VVdmY0RHa01UakJKcm5Ha2l1anVGQVhvV3Jyc1ZSbjd2SnkzU21rMkI5RHFvYjVFZXh6V2VzNXJB?oc=5" target="_blank">Capital Fund Management S.A. Grows Stock Position in Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 55. Capital International Investors Cuts Holdings in Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOF85V1c4NlhoVzh6RnNtd0U4b3NINkd3QWRnODRBZVBKZXBhT05GWWZpTEl2YS0xcUxnTnlqdnZ1Wk9FcDloSlhqRHNvTGM1SVlPcVVELWlJTXFJYVM2UGUtR0tTUXlBQ2dYYjBQMWl3dzlDZmVOM3p1TVNHZWMyMDRVYkRMUTlKV3A3emVPRS14ZVhCX2wzTC03QXpUcXV1b3hZUk1vZFJSNlpYZmlZQTBiSjFEUTBTOU1MS1ZfU0x6d0s5ckxhNWFTb1NwTVlSRl9V?oc=5
+**Published:** Thu, 12 Mar 2026 08:26:54 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOF85V1c4NlhoVzh6RnNtd0U4b3NINkd3QWRnODRBZVBKZXBhT05GWWZpTEl2YS0xcUxnTnlqdnZ1Wk9FcDloSlhqRHNvTGM1SVlPcVVELWlJTXFJYVM2UGUtR0tTUXlBQ2dYYjBQMWl3dzlDZmVOM3p1TVNHZWMyMDRVYkRMUTlKV3A3emVPRS14ZVhCX2wzTC03QXpUcXV1b3hZUk1vZFJSNlpYZmlZQTBiSjFEUTBTOU1MS1ZfU0x6d0s5ckxhNWFTb1NwTVlSRl9V?oc=5" target="_blank">Capital International Investors Cuts Holdings in Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 56. 5 Essential Analyst Inquiries from Guidewire Software’s Fourth Quarter Earnings Discussion - Bitget
+
+**Link:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UR3pUMXh6Q1hMa2hMZ3ZadFBCeWxxeW1iakRvQUJsalBJY0RZckFuSXdjR0M2NmJkaXc0SEdKb2VJbDZ2X0ZjNU1GTFNlVXVyV0c4OG96QVlvS2dSWHBHcnZHSdIBY0FVX3lxTE5UR3pUMXh6Q1hMa2hMZ3ZadFBCeWxxeW1iakRvQUJsalBJY0RZckFuSXdjR0M2NmJkaXc0SEdKb2VJbDZ2X0ZjNU1GTFNlVXVyV0c4OG96QVlvS2dSWHBHcnZHSQ?oc=5
+**Published:** Thu, 12 Mar 2026 08:06:53 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UR3pUMXh6Q1hMa2hMZ3ZadFBCeWxxeW1iakRvQUJsalBJY0RZckFuSXdjR0M2NmJkaXc0SEdKb2VJbDZ2X0ZjNU1GTFNlVXVyV0c4OG96QVlvS2dSWHBHcnZHSdIBY0FVX3lxTE5UR3pUMXh6Q1hMa2hMZ3ZadFBCeWxxeW1iakRvQUJsalBJY0RZckFuSXdjR0M2NmJkaXc0SEdKb2VJbDZ2X0ZjNU1GTFNlVXVyV0c4OG96QVlvS2dSWHBHcnZHSQ?oc=5" target="_blank">5 Essential Analyst Inquiries from Guidewire Software’s Fourth Quarter Earnings Discussion</a>&nbsp;&nbsp;<font color="#6f6f6f">Bitget</font>
+
+---
+
+## 57. 5 Must-Read Analyst Questions From Guidewire Software’s Q4 Earnings Call - Yahoo Finance
+
+**Link:** https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHkxNjUzWU1rWlRaZ1o3RUpYQkxpcEhBLVVTWXQ3T3NNRXlGQzg3aEZlcTBET1EtZTBQenRlR0RsNFBfZ1Y5ekxfVDZlQUppYXhZcXVBMUJZWXJwRFVvbGQ4ZzE4aFZsQXUwZGNQSjBvbFBDU3ZKdEtkVlVKM1FDSQ?oc=5
+**Published:** Thu, 12 Mar 2026 07:54:59 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHkxNjUzWU1rWlRaZ1o3RUpYQkxpcEhBLVVTWXQ3T3NNRXlGQzg3aEZlcTBET1EtZTBQenRlR0RsNFBfZ1Y5ekxfVDZlQUppYXhZcXVBMUJZWXJwRFVvbGQ4ZzE4aFZsQXUwZGNQSjBvbFBDU3ZKdEtkVlVKM1FDSQ?oc=5" target="_blank">5 Must-Read Analyst Questions From Guidewire Software’s Q4 Earnings Call</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font>
+
+---
+
+## 58. Synechron Partners with Duck Creek Technologies to Drive Digital Transformation in the Insurance Industry - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc1ptVjBCdWZYSEdMSzRPSXFSLWljeFl6WUJBeEp4bHJPc0l1SzZrMmd2cVBQbWxrYjlHOVp2emxqNk5JX2VTU0tKVHMwZnZzT3h1MlJseEQxZlQ2UVBzZmJxa0k3WHJIdDBnekhTR2dPMmJRZ3hCM3F0ZzZYRjFORDRBOVd4bDF2Sm9NOGRGRVNIZWprVjNyWFNLUElHTUZJQTNwTVpCLTJyQTV4RUpuMUc2UXFoZTB1TEJ0aHEtM1paSzdVM3AwSzJQS3o1RkFLQ0VvbXRPTWgxUFdoTjBLVlZpTFpZVjZzOHl1VkZJbW1Yalk?oc=5
+**Published:** Thu, 11 Sep 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc1ptVjBCdWZYSEdMSzRPSXFSLWljeFl6WUJBeEp4bHJPc0l1SzZrMmd2cVBQbWxrYjlHOVp2emxqNk5JX2VTU0tKVHMwZnZzT3h1MlJseEQxZlQ2UVBzZmJxa0k3WHJIdDBnekhTR2dPMmJRZ3hCM3F0ZzZYRjFORDRBOVd4bDF2Sm9NOGRGRVNIZWprVjNyWFNLUElHTUZJQTNwTVpCLTJyQTV4RUpuMUc2UXFoZTB1TEJ0aHEtM1paSzdVM3AwSzJQS3o1RkFLQ0VvbXRPTWgxUFdoTjBLVlZpTFpZVjZzOHl1VkZJbW1Yalk?oc=5" target="_blank">Synechron Partners with Duck Creek Technologies to Drive Digital Transformation in the Insurance Industry</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 59. Five AI Trends Reshaping Insurance in 2026 - Carrier Management
+
+**Link:** https://news.google.com/rss/articles/CBMickFVX3lxTFBKWGVsT1BxZlA3Y0Y2ZFFTcFpfaHZybnFMSWR1RkU3cUFSUlN5ZndyTVM2SE1GRFVyUGk1X0k5ZmE1N1NMcG5HWU8zdzAwblA3ejd1RldaOWRkLXZjMUFsb0RjbzkyUEZxRFRGMGxZTHdIZw?oc=5
+**Published:** Thu, 08 Jan 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTFBKWGVsT1BxZlA3Y0Y2ZFFTcFpfaHZybnFMSWR1RkU3cUFSUlN5ZndyTVM2SE1GRFVyUGk1X0k5ZmE1N1NMcG5HWU8zdzAwblA3ejd1RldaOWRkLXZjMUFsb0RjbzkyUEZxRFRGMGxZTHdIZw?oc=5" target="_blank">Five AI Trends Reshaping Insurance in 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">Carrier Management</font>
+
+---
+
+## 60. Guidewire Software’s (NYSE:GWRE) Q4 CY2025: Strong Sales - Yahoo Finance
+
+**Link:** https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnJVRlBHUk51Z0ZPbktHYm02MHFJR2hIZGwxeHBIWHhxUFZ2bWd6bEZrZ2RQQ2F0M2Q0N0xXYXJobHRfSUFzRmd6SE5oNUV0SDFuQmphVGdlSXlTbkE1Ull5bFJiU3NUMU1ucXhtQ2h4d0ktT24xTUI4RHktTnFFX1Zmaw?oc=5
+**Published:** Thu, 05 Mar 2026 08:00:00 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnJVRlBHUk51Z0ZPbktHYm02MHFJR2hIZGwxeHBIWHhxUFZ2bWd6bEZrZ2RQQ2F0M2Q0N0xXYXJobHRfSUFzRmd6SE5oNUV0SDFuQmphVGdlSXlTbkE1Ull5bFJiU3NUMU1ucXhtQ2h4d0ktT24xTUI4RHktTnFFX1Zmaw?oc=5" target="_blank">Guidewire Software’s (NYSE:GWRE) Q4 CY2025: Strong Sales</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo Finance</font>
+
+---
+
+## 61. 10 best health insurance solutions available in 2025 - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXN1a3hGRjYzMi1EZFFRWlcxTWp0RDNYMnEzNnpXY3UtTHIxelE0TUxlY3ZDczVDczZEU2ZDX3QyMW9LNVpzYWNVQjNvajBDU091YmlDckZVQU9Wd1RvUlZFZUNJVVdQdUpLYmpPS1Bkbld2eU41UXg2SDdqVm5VVmtiNU1pRTQ2RU96eW44akU?oc=5
+**Published:** Thu, 04 Sep 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXN1a3hGRjYzMi1EZFFRWlcxTWp0RDNYMnEzNnpXY3UtTHIxelE0TUxlY3ZDczVDczZEU2ZDX3QyMW9LNVpzYWNVQjNvajBDU091YmlDckZVQU9Wd1RvUlZFZUNJVVdQdUpLYmpPS1Bkbld2eU41UXg2SDdqVm5VVmtiNU1pRTQ2RU96eW44akU?oc=5" target="_blank">10 best health insurance solutions available in 2025</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 62. Capability debt is crippling the insurance industry - DXC Technology
+
+**Link:** https://news.google.com/rss/articles/CBMic0FVX3lxTE9NOUVzX2RUVldkRWtvZ2NKVHlUdjY4VXk3UXFEdlJmMlk5dVM4QU0yazJKNDA0Uk5wSWptdVhtOW1hTy1Jc2dINUVrdVJ4anF2TlNJLVRSQzBFOV9meHR6S1Y4V1hwaHBrVTJMQ3BhZHZjR1U?oc=5
+**Published:** Thu, 02 Oct 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9NOUVzX2RUVldkRWtvZ2NKVHlUdjY4VXk3UXFEdlJmMlk5dVM4QU0yazJKNDA0Uk5wSWptdVhtOW1hTy1Jc2dINUVrdVJ4anF2TlNJLVRSQzBFOV9meHR6S1Y4V1hwaHBrVTJMQ3BhZHZjR1U?oc=5" target="_blank">Capability debt is crippling the insurance industry</a>&nbsp;&nbsp;<font color="#6f6f6f">DXC Technology</font>
+
+---
+
+## 63. Bamco Inc. NY Sells 420,669 Shares of Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGhxT3dKXzJMemlfTE8wQUVNVVZERDBBTHhfajJTQXhzTEJsa1JUeG1BbE1JR1B0R19OR1ZsUDFYWXE1OXhCZktuNmdDaXpMcnlNWUxZZkZlc094MEhfZXN4ZDlXZFFSUkxWcXVKZF9nNzEtNkxNVmpiVVo5c3NfVzZCdzM1c1hCcVBKcHVhaW0xcldfX09lbWNYMlVLYmJWaGEwUWV0aENSUjh1b2RJZEpFS3N6TXl4NUUyb0hyanNEQQ?oc=5
+**Published:** Sun, 15 Mar 2026 08:46:19 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGhxT3dKXzJMemlfTE8wQUVNVVZERDBBTHhfajJTQXhzTEJsa1JUeG1BbE1JR1B0R19OR1ZsUDFYWXE1OXhCZktuNmdDaXpMcnlNWUxZZkZlc094MEhfZXN4ZDlXZFFSUkxWcXVKZF9nNzEtNkxNVmpiVVo5c3NfVzZCdzM1c1hCcVBKcHVhaW0xcldfX09lbWNYMlVLYmJWaGEwUWV0aENSUjh1b2RJZEpFS3N6TXl4NUUyb0hyanNEQQ?oc=5" target="_blank">Bamco Inc. NY Sells 420,669 Shares of Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 64. Algert Global LLC Purchases 27,859 Shares of Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMizAFBVV95cUxONEhMZl9fcHhXYWU4UEVJazhSWl9YSjVRX2UzVTdCcUNselNXNWV1aEF3SldlQkI4TW92bjJuRUtJTWNSVWxxVDlySnFFUU00eXdGanR3cjQ0WjhRUUxnY3BMd2NvUFZ2TXlMbWNBTTZWU01XVmxWazJ3bGk2S0JxZHYySUloZ3lZWTRibnc4amdqOUM1ei01eUk5QmkyenFTeTNfZ1BlYVA5ZWc4QlpGN3ZSb3l4SDBRdlA1eWx6Q3Z4TlNjaXotdnd5ajk?oc=5
+**Published:** Sun, 15 Mar 2026 07:28:14 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxONEhMZl9fcHhXYWU4UEVJazhSWl9YSjVRX2UzVTdCcUNselNXNWV1aEF3SldlQkI4TW92bjJuRUtJTWNSVWxxVDlySnFFUU00eXdGanR3cjQ0WjhRUUxnY3BMd2NvUFZ2TXlMbWNBTTZWU01XVmxWazJ3bGk2S0JxZHYySUloZ3lZWTRibnc4amdqOUM1ei01eUk5QmkyenFTeTNfZ1BlYVA5ZWc4QlpGN3ZSb3l4SDBRdlA1eWx6Q3Z4TlNjaXotdnd5ajk?oc=5" target="_blank">Algert Global LLC Purchases 27,859 Shares of Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 65. Duck Creek Technologies closes $230m less than a year after former round – Digital Insurance & CX Tech Forum 2022 - FinTech Global
+
+**Link:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTlTclYwclpMbXRUbEdPYXFST0FrT0hDRkJSUEluOHdFWVB6akxuUzc2NFZmM21WQnVxdldtMm5ZMVJkZ2tLUk1CREdKOHJMaE5XelRCWG0yaXJ1ejBiclpsTTU3MS02RHpDOW1JSV9SbjlCVW1XcDB4dUFVbFBFbTRrMXc3U0ltX0paMlVtZFdxbF8tNVo3cjQxZ3ljOENFU293RkxFOGtocmg0ZUdEUlowaWxuNHpG?oc=5
+**Published:** Sun, 15 Jun 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTlTclYwclpMbXRUbEdPYXFST0FrT0hDRkJSUEluOHdFWVB6akxuUzc2NFZmM21WQnVxdldtMm5ZMVJkZ2tLUk1CREdKOHJMaE5XelRCWG0yaXJ1ejBiclpsTTU3MS02RHpDOW1JSV9SbjlCVW1XcDB4dUFVbFBFbTRrMXc3U0ltX0paMlVtZFdxbF8tNVo3cjQxZ3ljOENFU293RkxFOGtocmg0ZUdEUlowaWxuNHpG?oc=5" target="_blank">Duck Creek Technologies closes $230m less than a year after former round – Digital Insurance & CX Tech Forum 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">FinTech Global</font>
+
+---
+
+## 66. Guidewire Software stock (ISIN: US4016171054) rallies on strong Q2 beats and raised guidance despite - AD HOC NEWS
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2dmVlZvX21zcWtWZ3Uydmd5cTMyY3dVdkd0YXVLVW1SUno2dGFKVUlJNEJSU09NOC1nbEJyX2lHeUo0NFBXS3VQYUhYZ05vSGRCXzI0UUVoV3pya3pLY3cyX3o2blFWSUVNcml2WjhYNk5odGgySkJ6WmR3NThFUVMzOW85THVfOEpsY0lQbEkwMHlwaGdqUXNuY0haWjVqeVhxVVY5ejRndTZoNnlaRUVmMW9EMjFyNGpSOVdLd25BRnFlLUs0?oc=5
+**Published:** Sat, 14 Mar 2026 20:01:25 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQM2dmVlZvX21zcWtWZ3Uydmd5cTMyY3dVdkd0YXVLVW1SUno2dGFKVUlJNEJSU09NOC1nbEJyX2lHeUo0NFBXS3VQYUhYZ05vSGRCXzI0UUVoV3pya3pLY3cyX3o2blFWSUVNcml2WjhYNk5odGgySkJ6WmR3NThFUVMzOW85THVfOEpsY0lQbEkwMHlwaGdqUXNuY0haWjVqeVhxVVY5ejRndTZoNnlaRUVmMW9EMjFyNGpSOVdLd25BRnFlLUs0?oc=5" target="_blank">Guidewire Software stock (ISIN: US4016171054) rallies on strong Q2 beats and raised guidance despite</a>&nbsp;&nbsp;<font color="#6f6f6f">AD HOC NEWS</font>
+
+---
+
+## 67. Is It Time To Reassess Guidewire Software (GWRE) After Its Recent Share Price Pullback? - simplywall.st
+
+**Link:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2FUQTREMktvaUxBTWI5MGV4M2NtdXI3V1c5VEZPQWplM0RQOVZQLVQzUXI0cDBjLXg2LXktYVJPeVlnZVNiTGZSc0VFSDRNYm1rM3NNc1kzWjNvTlhjY3dWckZ3a3F6R0E2Z3NBbjF5QmE2VmotQTVkWjRVZVA4cmw4d29zUVRURG9xY1V3d2VRWUEyZlY5MFp5RlBiYjY4X1htYXlYUlFoazhGbjlaTGxUakd4dmUzRF9JbFpLNGJGd3BsN0ZQN2VPMDloSm1Y0gHWAUFVX3lxTE5TOHJyX1BRRkVEQVUyX3VFQmw2TTN4anR5bnJpbTdnRnptM2VUU3d0SE9ESk9nTTNjejVlb2l0R09ZOTlEbHVieTZZOWloWmhZZ2RBczlHRGJoZHJIb0l5VERnbHozdkJPTndRZ080alBVYjZ1VjN4ZlRPYnlrMEdqRFVNY0RBbzRjWHQxeFJOQzR4R2pmamtoaHkxZlhIQnU3VGtaZUttcFAtVlpOcXhJUVE1YUUzX3NTUUZlZ3JueDdUWjcwZzE4dGprampzREN0OEU1TFE?oc=5
+**Published:** Sat, 14 Mar 2026 17:27:12 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2FUQTREMktvaUxBTWI5MGV4M2NtdXI3V1c5VEZPQWplM0RQOVZQLVQzUXI0cDBjLXg2LXktYVJPeVlnZVNiTGZSc0VFSDRNYm1rM3NNc1kzWjNvTlhjY3dWckZ3a3F6R0E2Z3NBbjF5QmE2VmotQTVkWjRVZVA4cmw4d29zUVRURG9xY1V3d2VRWUEyZlY5MFp5RlBiYjY4X1htYXlYUlFoazhGbjlaTGxUakd4dmUzRF9JbFpLNGJGd3BsN0ZQN2VPMDloSm1Y0gHWAUFVX3lxTE5TOHJyX1BRRkVEQVUyX3VFQmw2TTN4anR5bnJpbTdnRnptM2VUU3d0SE9ESk9nTTNjejVlb2l0R09ZOTlEbHVieTZZOWloWmhZZ2RBczlHRGJoZHJIb0l5VERnbHozdkJPTndRZ080alBVYjZ1VjN4ZlRPYnlrMEdqRFVNY0RBbzRjWHQxeFJOQzR4R2pmamtoaHkxZlhIQnU3VGtaZUttcFAtVlpOcXhJUVE1YUUzX3NTUUZlZ3JueDdUWjcwZzE4dGprampzREN0OEU1TFE?oc=5" target="_blank">Is It Time To Reassess Guidewire Software (GWRE) After Its Recent Share Price Pullback?</a>&nbsp;&nbsp;<font color="#6f6f6f">simplywall.st</font>
+
+---
+
+## 68. Brown Brothers Harriman & Co. Has $170.47 Million Stock Position in Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjJMZ2ZkMWRjckNrTlF5emVqRE1BLTN0Wmxfa0hpbjY0RFBpNnpqZ3FWdmd2NWZGZlZ1cy1EcVpiNHA4clFnc3AybzUwdnBEYjVPVmNzMHA1bS1iUVVLeDJxTTlnLWZDSVlnVHQ1b2YxSUluUDNUYUlNNGlSRmRlV0hnZWo1Q3VVaDByZGFDVlVCbzM5WVdNQ1dnRWdJNU1zYjdMZlhKc0hELUVKbmF5MHZobnFVSHpHTFU1UkE2UjVlRUVMc2QwWVNMNF8wOHI3WEJrbzZmZDRWZ0ZTanZON0JKdVNiUQ?oc=5
+**Published:** Sat, 14 Mar 2026 07:43:54 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjJMZ2ZkMWRjckNrTlF5emVqRE1BLTN0Wmxfa0hpbjY0RFBpNnpqZ3FWdmd2NWZGZlZ1cy1EcVpiNHA4clFnc3AybzUwdnBEYjVPVmNzMHA1bS1iUVVLeDJxTTlnLWZDSVlnVHQ1b2YxSUluUDNUYUlNNGlSRmRlV0hnZWo1Q3VVaDByZGFDVlVCbzM5WVdNQ1dnRWdJNU1zYjdMZlhKc0hELUVKbmF5MHZobnFVSHpHTFU1UkE2UjVlRUVMc2QwWVNMNF8wOHI3WEJrbzZmZDRWZ0ZTanZON0JKdVNiUQ?oc=5" target="_blank">Brown Brothers Harriman & Co. Has $170.47 Million Stock Position in Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 69. Cooper, Guidewire Software CFO, sells $755k in shares - Investing.com
+
+**Link:** https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHY5ekdHdlNBZjFsQnRNU1g5R2ZtX1NzMlVjTkZqU3p5bEt2MXR2aDduU0lOcG53SU16SFdIVG5ENWh0VllGeGJwMGl6c2MtU245cWtFeXJXSFRia04zZHZtZVoxajgyalBGUlF3U012YVhqM1FKbWt4bDI2aFNhMTltclEwcnNGSjNPWnV0ck5udlRwZkJ5SkN6czVkeGRrc1kzNG9CVXZheElXZUFIOWVoY1FjV05tdmxuOWo3TUM?oc=5
+**Published:** Sat, 14 Mar 2026 07:02:27 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHY5ekdHdlNBZjFsQnRNU1g5R2ZtX1NzMlVjTkZqU3p5bEt2MXR2aDduU0lOcG53SU16SFdIVG5ENWh0VllGeGJwMGl6c2MtU245cWtFeXJXSFRia04zZHZtZVoxajgyalBGUlF3U012YVhqM1FKbWt4bDI2aFNhMTltclEwcnNGSjNPWnV0ck5udlRwZkJ5SkN6czVkeGRrc1kzNG9CVXZheElXZUFIOWVoY1FjV05tdmxuOWo3TUM?oc=5" target="_blank">Cooper, Guidewire Software CFO, sells $755k in shares</a>&nbsp;&nbsp;<font color="#6f6f6f">Investing.com</font>
+
+---
+
+## 70. Guidewire Software, Inc. (NYSE:GWRE) Q2 2026 earnings call transcript - MSN
+
+**Link:** https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzlJTjItb3lyXzM2aDR2M0tJRnNOMmdJanNUbjNEY0RpUEIwUHlHVUMtdHJLczA0WEhVektoaVB5c0tYQnc1Rm5mRGdFSnQyVmRlTHJDYjR3TWNrRFhPREd1bnZJN3M3VUZhQUhuekdjeVBvLWVLQVJZeTlmQTMxT0RITzdsaDhfVVJ1eEd6eDMwLWZZcFlXRDEwam5rbEZDTkFKVm5yc1phbEdyYkRSeXVyemwyQW91NWVBUUswTVpaRm9aSlhUMFRCQzQyVTFzMzM1REZRVF9CT0VkMVE?oc=5
+**Published:** Sat, 14 Mar 2026 04:22:33 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYzlJTjItb3lyXzM2aDR2M0tJRnNOMmdJanNUbjNEY0RpUEIwUHlHVUMtdHJLczA0WEhVektoaVB5c0tYQnc1Rm5mRGdFSnQyVmRlTHJDYjR3TWNrRFhPREd1bnZJN3M3VUZhQUhuekdjeVBvLWVLQVJZeTlmQTMxT0RITzdsaDhfVVJ1eEd6eDMwLWZZcFlXRDEwam5rbEZDTkFKVm5yc1phbEdyYkRSeXVyemwyQW91NWVBUUswTVpaRm9aSlhUMFRCQzQyVTFzMzM1REZRVF9CT0VkMVE?oc=5" target="_blank">Guidewire Software, Inc. (NYSE:GWRE) Q2 2026 earnings call transcript</a>&nbsp;&nbsp;<font color="#6f6f6f">MSN</font>
+
+---
+
+## 71. Insurers that fail to modernize IT systems take on risk - DXC Technology
+
+**Link:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhrUmsyek5xSXVTeFFsb3doMXFLUGZ1cUhOSnduUGJaS2l6a3VnV1ZOZ282RGQ2WFMxVHBYMU0xWDVlcUt3c3lacURHOExiWG54SVcwdTFPRjdSU05XZUg3RmVQRG05SjdIQlZDNEV1NTBGLXFMWlhybGtwV3VSUTd1eGpPbkZxSFRUbkhITTBQSlJJZF9USWNTcUZmVW5fS3lR?oc=5
+**Published:** Sat, 13 Dec 2025 18:01:59 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhrUmsyek5xSXVTeFFsb3doMXFLUGZ1cUhOSnduUGJaS2l6a3VnV1ZOZ282RGQ2WFMxVHBYMU0xWDVlcUt3c3lacURHOExiWG54SVcwdTFPRjdSU05XZUg3RmVQRG05SjdIQlZDNEV1NTBGLXFMWlhybGtwV3VSUTd1eGpPbkZxSFRUbkhITTBQSlJJZF9USWNTcUZmVW5fS3lR?oc=5" target="_blank">Insurers that fail to modernize IT systems take on risk</a>&nbsp;&nbsp;<font color="#6f6f6f">DXC Technology</font>
+
+---
+
+## 72. Guidewire Software (GWRE) Shares Skyrocket, What You Need To Know - StockStory
+
+**Link:** https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTkydlhCWWFDVjBqZFk1dzdjaTdNeHdtcHgtTTVzdnpsZXZPa0V5UV9ZakNFcE01bnJVNUJtVXF2Zl8ySnViUk9zRDBDNHBVVEh1M0M0dmhkRG5QMXg5T2FtRXVTZVF6UjZCZFJDY2o0dnlDY3VCYW0zU0NPZ2Q4WE5BZHRmT2tOSkgwYjdVWDNJTnh1TDR1dWkySjVvUGEzcDMwZk10MzdEazVqV0U2QlJZTDdpTEgtczRMcndGYw?oc=5
+**Published:** Sat, 07 Mar 2026 02:14:51 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTkydlhCWWFDVjBqZFk1dzdjaTdNeHdtcHgtTTVzdnpsZXZPa0V5UV9ZakNFcE01bnJVNUJtVXF2Zl8ySnViUk9zRDBDNHBVVEh1M0M0dmhkRG5QMXg5T2FtRXVTZVF6UjZCZFJDY2o0dnlDY3VCYW0zU0NPZ2Q4WE5BZHRmT2tOSkgwYjdVWDNJTnh1TDR1dWkySjVvUGEzcDMwZk10MzdEazVqV0U2QlJZTDdpTEgtczRMcndGYw?oc=5" target="_blank">Guidewire Software (GWRE) Shares Skyrocket, What You Need To Know</a>&nbsp;&nbsp;<font color="#6f6f6f">StockStory</font>
+
+---
+
+## 73. Why Insurance Telematics Integrations Fail - Carrier Management
+
+**Link:** https://news.google.com/rss/articles/CBMickFVX3lxTFB4TW8tTzdRSlFVZTlSUDdCcE9iZUJtSGlKQmZrQUZlM0VJZS13WW1XZkM0b1NXQWl1S2UwTS0tRzR5blhwclZfN0xma0xqeUJHR0dHYTExbnNERTFMaGEwN1VsbGd1QU1JdlQzSXRTRzFnZw?oc=5
+**Published:** Mon, 24 Nov 2025 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTFB4TW8tTzdRSlFVZTlSUDdCcE9iZUJtSGlKQmZrQUZlM0VJZS13WW1XZkM0b1NXQWl1S2UwTS0tRzR5blhwclZfN0xma0xqeUJHR0dHYTExbnNERTFMaGEwN1VsbGd1QU1JdlQzSXRTRzFnZw?oc=5" target="_blank">Why Insurance Telematics Integrations Fail</a>&nbsp;&nbsp;<font color="#6f6f6f">Carrier Management</font>
+
+---
+
+## 74. Duck Creek Technologies Named a Leader Once Again in 2025 Gartner® Magic Quadrant™ for SaaS P&C Insurance Core Platforms, North America - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMilgJBVV95cUxQbC01blFzWWVLLTUwMFJiVXo1eTh3UUlVempKcDA0MTdnQkllc1NKQy1JSm13WkEya1d6eTE5SWdpSmxwS3RicVd2d0FuRi1VUjI1czZuMUhTQ0d0d3hocDRjRjRTcGhXV0Q1UkVYM244MDVaZG5YN0g1N1dTclp2QjBlLWN6T0JyZDNwTVdXZDM5RXBnRm9FVzhrdUx0MmdndUtUa2VTZDZqN214cXRjSF9BRVlEZ25Bb0dxUUx0eWxGN3ZSbGpsWlJRQ0R3NHl2MWMzY01JWmdHSjZJem1ZYkFHMk9EZldOcG4xM1hLYlc2V2U4Y2x2ZldVek44UXVMYTFDZUtMRTEyQy1LVGVHd0JGUjZ4QQ?oc=5
+**Published:** Mon, 22 Sep 2025 07:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMilgJBVV95cUxQbC01blFzWWVLLTUwMFJiVXo1eTh3UUlVempKcDA0MTdnQkllc1NKQy1JSm13WkEya1d6eTE5SWdpSmxwS3RicVd2d0FuRi1VUjI1czZuMUhTQ0d0d3hocDRjRjRTcGhXV0Q1UkVYM244MDVaZG5YN0g1N1dTclp2QjBlLWN6T0JyZDNwTVdXZDM5RXBnRm9FVzhrdUx0MmdndUtUa2VTZDZqN214cXRjSF9BRVlEZ25Bb0dxUUx0eWxGN3ZSbGpsWlJRQ0R3NHl2MWMzY01JWmdHSjZJem1ZYkFHMk9EZldOcG4xM1hLYlc2V2U4Y2x2ZldVek44UXVMYTFDZUtMRTEyQy1LVGVHd0JGUjZ4QQ?oc=5" target="_blank">Duck Creek Technologies Named a Leader Once Again in 2025 Gartner® Magic Quadrant™ for SaaS P&amp;C Insurance Core Platforms, North America</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 75. Legacy systems, budget constraints stall insurance modernization – West Monroe - Insurance Business
+
+**Link:** https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmtQLTdaejcxNnE3c19QeTQ2VGlHY0l1M3F1U0NPQm85clM2aFVFTzdRSmpWSW5sQ05EWmlDNTdkTk5wb3pYTGNLN0tBMWVlWnZFTEpuY3dkOWFsMktpZm0zeXQ0TUYySXZfY1dvMmhoWW05SlJSODNRN2NBZzMyMm1BYlM3T3V0cUl5aTFobkNETXdiRWJSdnY3Y0psSDlaTHNEclcwOV9XZnd4QXBmTXE5anUyWWlpMkpBaHgyY2h6YkdGT3dxcnN5emt3S2pwekFRUFR0WEpLLUxC?oc=5
+**Published:** Mon, 20 Oct 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmtQLTdaejcxNnE3c19QeTQ2VGlHY0l1M3F1U0NPQm85clM2aFVFTzdRSmpWSW5sQ05EWmlDNTdkTk5wb3pYTGNLN0tBMWVlWnZFTEpuY3dkOWFsMktpZm0zeXQ0TUYySXZfY1dvMmhoWW05SlJSODNRN2NBZzMyMm1BYlM3T3V0cUl5aTFobkNETXdiRWJSdnY3Y0psSDlaTHNEclcwOV9XZnd4QXBmTXE5anUyWWlpMkpBaHgyY2h6YkdGT3dxcnN5emt3S2pwekFRUFR0WEpLLUxC?oc=5" target="_blank">Legacy systems, budget constraints stall insurance modernization – West Monroe</a>&nbsp;&nbsp;<font color="#6f6f6f">Insurance Business</font>
+
+---
+
+## 76. Guidewire Software: The Shift To Profitability (NYSE:GWRE) - Seeking Alpha
+
+**Link:** https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21qRzdaUlZOaXo0LWNxZndERnhJR1pCNFVxLUZnRjVnT1ROLXJoVERDVGREZjk5SDZCTDFNTTU2U0VVbTdWYVhRX2tXLTlmQ0paczdTZDhaTFVic1pZTzRQTzlnS3JDanNKLUxTWkdfSnk4dHg3WkxzYzAzYTk5OUU4SQ?oc=5
+**Published:** Mon, 17 Mar 2025 07:00:00 GMT
+**Source:** "Majesco Insurity Sapiens insurance software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21qRzdaUlZOaXo0LWNxZndERnhJR1pCNFVxLUZnRjVnT1ROLXJoVERDVGREZjk5SDZCTDFNTTU2U0VVbTdWYVhRX2tXLTlmQ0paczdTZDhaTFVic1pZTzRQTzlnS3JDanNKLUxTWkdfSnk4dHg3WkxzYzAzYTk5OUU4SQ?oc=5" target="_blank">Guidewire Software: The Shift To Profitability (NYSE:GWRE)</a>&nbsp;&nbsp;<font color="#6f6f6f">Seeking Alpha</font>
+
+---
+
+## 77. How P&C insurers can successfully modernize core systems - McKinsey & Company
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGtfS2hrTHBDQm9iV2RDMnd3Ynd5cEFnS3I1MVkza1ItQUJCOTNmY0puSEVDMUllUU9XdU5ZUjJwRlF3NkpJUEc1ZGYxY3BMZlY1Y183QXFEM2hCYzgyQm9PbXV1V1NBcV82V0FVMTdSR2N4QlRYdVctUzhldlF1OWhoZllBVDg5ajZVLUZqbV9YUHVxU2R5TWFzbDdFQmxPRHYxU0toNS1qNzB0YkF3OE55SlpMMkZ2ZHVfQzNzYmpDRGZaTVBj?oc=5
+**Published:** Mon, 12 May 2025 07:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGtfS2hrTHBDQm9iV2RDMnd3Ynd5cEFnS3I1MVkza1ItQUJCOTNmY0puSEVDMUllUU9XdU5ZUjJwRlF3NkpJUEc1ZGYxY3BMZlY1Y183QXFEM2hCYzgyQm9PbXV1V1NBcV82V0FVMTdSR2N4QlRYdVctUzhldlF1OWhoZllBVDg5ajZVLUZqbV9YUHVxU2R5TWFzbDdFQmxPRHYxU0toNS1qNzB0YkF3OE55SlpMMkZ2ZHVfQzNzYmpDRGZaTVBj?oc=5" target="_blank">How P&amp;C insurers can successfully modernize core systems</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>
+
+---
+
+## 78. Duck Creek Technologies Appoints Enterprise and AI Product Leader Jose Lazares as Chief Product Officer - PR Newswire
+
+**Link:** https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0RfNDNTOHBWRUNTbm5FUFMtY3hZaGJWc3JZQm1HYlpnTkU5SE1ac0JIUHhta09adTFnMVdNWEFuUUNLemVWQVRoRjNjNGJ1Yl9la2dsSzJsbUoyNUhadFFpSEZHcWt1eFlsRGlxcUo2LVl0VVVQWnFIS1RvNmd6QmxpRGNKOE1aLUtpMzFRQnpxWGg3ckNiTDYwQkpXUHJtYWdrM0J2czdrc05VOVFnaGI0dVAyYTVwVVlrTGdxTWk1Wm5NdkdULTUxVTI5dUNhUkhYMXRwWnFLR0JzeUJ3a0M2NHhISFBSOFRhT2x1bXA?oc=5
+**Published:** Mon, 12 Jan 2026 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0RfNDNTOHBWRUNTbm5FUFMtY3hZaGJWc3JZQm1HYlpnTkU5SE1ac0JIUHhta09adTFnMVdNWEFuUUNLemVWQVRoRjNjNGJ1Yl9la2dsSzJsbUoyNUhadFFpSEZHcWt1eFlsRGlxcUo2LVl0VVVQWnFIS1RvNmd6QmxpRGNKOE1aLUtpMzFRQnpxWGg3ckNiTDYwQkpXUHJtYWdrM0J2czdrc05VOVFnaGI0dVAyYTVwVVlrTGdxTWk1Wm5NdkdULTUxVTI5dUNhUkhYMXRwWnFLR0JzeUJ3a0M2NHhISFBSOFRhT2x1bXA?oc=5" target="_blank">Duck Creek Technologies Appoints Enterprise and AI Product Leader Jose Lazares as Chief Product Officer</a>&nbsp;&nbsp;<font color="#6f6f6f">PR Newswire</font>
+
+---
+
+## 79. How Agentic AI Can Power Core Insurance IT Modernization - Boston Consulting Group
+
+**Link:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0RoVjJSS2s3MUN3MWZzNDVnamM1WnVoZkkyZ0xoV0NtUlduMy02WDBoZ2ZRS2kzbEptT3BqV0UxRjdiR2tRaU9ZbzhabXZyb1kyNmdMQ09Lb1dtbjdtNTM3UEJtZzlzX1VLc0RxdzlBVkpBQ3JKVEl3MFd3RzYtckdzZzFEWmRWQnZua3MtTQ?oc=5
+**Published:** Mon, 12 Jan 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0RoVjJSS2s3MUN3MWZzNDVnamM1WnVoZkkyZ0xoV0NtUlduMy02WDBoZ2ZRS2kzbEptT3BqV0UxRjdiR2tRaU9ZbzhabXZyb1kyNmdMQ09Lb1dtbjdtNTM3UEJtZzlzX1VLc0RxdzlBVkpBQ3JKVEl3MFd3RzYtckdzZzFEWmRWQnZua3MtTQ?oc=5" target="_blank">How Agentic AI Can Power Core Insurance IT Modernization</a>&nbsp;&nbsp;<font color="#6f6f6f">Boston Consulting Group</font>
+
+---
+
+## 80. Guidewire’s Record Quarter And Buyback Sharpen Focus On Cloud And AI - simplywall.st
+
+**Link:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1BPVVFmRmpiS1lTS09wUzJscUdTZjlYOXJBVHY1dnFOMWFab0V2YnBOeGoxYmhWOHBkaUF0c3M4YjBneGliOHhFdUp3U3ZSUEVHR2g0Z294SVRjUHJ2dzJJT1Ywd3UwcE10cDNYNE9FbHA2ZGtqQi1NbzQ3a25zUG5selpxbkF1amdyN3ZWcW9tdDBYdVJXSmY3YWNsNHkxb25faTBTNkhRUzc0X1ZxeXhvUWhxQWNFZmZhZXdpNWx0NTdQWXdxMHhKa1hRLWYt0gHWAUFVX3lxTE53UkgwbllWcVdGNnZTS2tpcjBsc0dDejhYVUxHdFI5U2piendZM3JvQWZqdFB4U0JWTS1JSXpHVzYyQjlBTWwtM1ZZZnFCSGhkTlA4VlVvUjdQb2M1TnhoYXJjeGJJQjZrd0x3Rmg4eFpfUVh1YV9yVVBrdG4tTnlGV2V5MHEwdVNpUWl1U1RuVDd6NXBFcWRBTVJ3VGNJMHBqYVhFSEFfN084VWQ5RHlHZG1WWDVJUVFXZDVsU1dJSXdLQWI5dEw5VmFSdnF1dUFYRjhPeUE?oc=5
+**Published:** Mon, 09 Mar 2026 23:27:29 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1BPVVFmRmpiS1lTS09wUzJscUdTZjlYOXJBVHY1dnFOMWFab0V2YnBOeGoxYmhWOHBkaUF0c3M4YjBneGliOHhFdUp3U3ZSUEVHR2g0Z294SVRjUHJ2dzJJT1Ywd3UwcE10cDNYNE9FbHA2ZGtqQi1NbzQ3a25zUG5selpxbkF1amdyN3ZWcW9tdDBYdVJXSmY3YWNsNHkxb25faTBTNkhRUzc0X1ZxeXhvUWhxQWNFZmZhZXdpNWx0NTdQWXdxMHhKa1hRLWYt0gHWAUFVX3lxTE53UkgwbllWcVdGNnZTS2tpcjBsc0dDejhYVUxHdFI5U2piendZM3JvQWZqdFB4U0JWTS1JSXpHVzYyQjlBTWwtM1ZZZnFCSGhkTlA4VlVvUjdQb2M1TnhoYXJjeGJJQjZrd0x3Rmg4eFpfUVh1YV9yVVBrdG4tTnlGV2V5MHEwdVNpUWl1U1RuVDd6NXBFcWRBTVJ3VGNJMHBqYVhFSEFfN084VWQ5RHlHZG1WWDVJUVFXZDVsU1dJSXdLQWI5dEw5VmFSdnF1dUFYRjhPeUE?oc=5" target="_blank">Guidewire’s Record Quarter And Buyback Sharpen Focus On Cloud And AI</a>&nbsp;&nbsp;<font color="#6f6f6f">simplywall.st</font>
+
+---
+
+## 81. Guidewire Software: Valuation And Growth Finally Match (Rating Upgrade) (NYSE:GWRE) - Seeking Alpha
+
+**Link:** https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUV1X24tbk5Wa0N5RXl5d0ZVdzl0OTczdFEzdkZ3M0RkOC0ycGlTTUdYT0V6S0o4LThOanF1RXNqcm1fbXBjajVVNUdWUDNXRDNpU3ZIR1FhcU13WG5NZ3VNN0hySEhOaFR6ZGxuMFhmZ3h0RHdsaWpJMk4zOVA2b1ZwTXgtX1g0SS1ZX1ZyZU94ZkwtWklaUWY2c1RsYVZmVHM5Vkd3cndfQU4ybGc?oc=5
+**Published:** Mon, 09 Mar 2026 17:43:53 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUV1X24tbk5Wa0N5RXl5d0ZVdzl0OTczdFEzdkZ3M0RkOC0ycGlTTUdYT0V6S0o4LThOanF1RXNqcm1fbXBjajVVNUdWUDNXRDNpU3ZIR1FhcU13WG5NZ3VNN0hySEhOaFR6ZGxuMFhmZ3h0RHdsaWpJMk4zOVA2b1ZwTXgtX1g0SS1ZX1ZyZU94ZkwtWklaUWY2c1RsYVZmVHM5Vkd3cndfQU4ybGc?oc=5" target="_blank">Guidewire Software: Valuation And Growth Finally Match (Rating Upgrade) (NYSE:GWRE)</a>&nbsp;&nbsp;<font color="#6f6f6f">Seeking Alpha</font>
+
+---
+
+## 82. Markel Insurance to accelerate claims and policy processing with new core system - Reinsurance News
+
+**Link:** https://news.google.com/rss/articles/CBMirwFBVV95cUxPVk9lSnk4dE1CdGlacEo1cjAydUdJSHo0Z01yOXJGaUZyNGZxanNxemxmOGVvUnYwOTE0N1IySTg3WmxpSDRyNHBXYW8yY245bm9KQXRsMzZNaHVFZ2pIVk4yLXlhSzVvS1RGTnVPWWtqd3d2UEE4QllzbUMybm81a1U5SFlMY3BTblAzQ09TYTJYNG56czVxaE5CSExmTFhhbVlrVF8yNkNiaVJtWjV3?oc=5
+**Published:** Fri, 16 Jan 2026 08:00:00 GMT
+**Source:** "insurance core systems technology" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPVk9lSnk4dE1CdGlacEo1cjAydUdJSHo0Z01yOXJGaUZyNGZxanNxemxmOGVvUnYwOTE0N1IySTg3WmxpSDRyNHBXYW8yY245bm9KQXRsMzZNaHVFZ2pIVk4yLXlhSzVvS1RGTnVPWWtqd3d2UEE4QllzbUMybm81a1U5SFlMY3BTblAzQ09TYTJYNG56czVxaE5CSExmTFhhbVlrVF8yNkNiaVJtWjV3?oc=5" target="_blank">Markel Insurance to accelerate claims and policy processing with new core system</a>&nbsp;&nbsp;<font color="#6f6f6f">Reinsurance News</font>
+
+---
+
+## 83. Zelis and Duck Creek Form P&C Payments Partnership - Program Business
+
+**Link:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREZ4eXdXcVMzQkQ1ckhhY0lxRVowSy1nZEl4bm85aTF6QnBEd1I3NGVrMU5EQ0c1MmtiWTNNX2hqNHlrczBRdkJvVkpVbTIyMWcyLWxnZ2FlZGY5NmRuQzIwZkF6VVdWTXpvUzhOTzdCRG5DWjVsOWZpOEVXZGxMaTlwMTZnNjZyMURj?oc=5
+**Published:** Fri, 14 Nov 2025 08:00:00 GMT
+**Source:** "Duck Creek Technologies insurance" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREZ4eXdXcVMzQkQ1ckhhY0lxRVowSy1nZEl4bm85aTF6QnBEd1I3NGVrMU5EQ0c1MmtiWTNNX2hqNHlrczBRdkJvVkpVbTIyMWcyLWxnZ2FlZGY5NmRuQzIwZkF6VVdWTXpvUzhOTzdCRG5DWjVsOWZpOEVXZGxMaTlwMTZnNjZyMURj?oc=5" target="_blank">Zelis and Duck Creek Form P&amp;C Payments Partnership</a>&nbsp;&nbsp;<font color="#6f6f6f">Program Business</font>
+
+---
+
+## 84. Insider Sell: Jeffrey Cooper Sells Shares of Guidewire Software Inc (GWRE) - GuruFocus
+
+**Link:** https://news.google.com/rss/articles/CBMirwFBVV95cUxORUZ3Y2Fod3RTVFAyTkt3WXIxUjdveUcwSUhjWTZrcG5rRTZ1Mkg1aXpOeWZIWld3c3JuS0RMcENyN0U4Nk80N2Rpb1NnYmJvM0d2WXFRdVdFci1tNWFEWktLTGlFVVNYMWg0UE5uQ1RaQXItRkhFbmY2WE4yM2pzeVN5TDF3MDhId1JQN2lYZjF4Q0ltUXJESDNaYzNoMWVGRmNDU0pDb2JnZFJnZEpN?oc=5
+**Published:** Fri, 13 Mar 2026 22:45:50 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxORUZ3Y2Fod3RTVFAyTkt3WXIxUjdveUcwSUhjWTZrcG5rRTZ1Mkg1aXpOeWZIWld3c3JuS0RMcENyN0U4Nk80N2Rpb1NnYmJvM0d2WXFRdVdFci1tNWFEWktLTGlFVVNYMWg0UE5uQ1RaQXItRkhFbmY2WE4yM2pzeVN5TDF3MDhId1JQN2lYZjF4Q0ltUXJESDNaYzNoMWVGRmNDU0pDb2JnZFJnZEpN?oc=5" target="_blank">Insider Sell: Jeffrey Cooper Sells Shares of Guidewire Software Inc (GWRE)</a>&nbsp;&nbsp;<font color="#6f6f6f">GuruFocus</font>
+
+---
+
+## 85. Insider Selling: Guidewire Software (NYSE:GWRE) CFO Sells 4,757 Shares of Stock - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHBydTU4cHRWOVJpWndpUWRKSmxiUzF6bUw2dzNfWmR6bkhpeTBSamkxUlN4ZWF6Zk9uYVg3T0tISU1Dd1VmY18tbVI1MDJJTG1vSmZFbWJaRlB0TDFvTV9YMlA4SjNuVEotRGZxSDhOWEN6bzUzWENhSnZUbmNVOXJfbVh3bzB3amhEMFNJUXZxcW5GN1JVTWpjSFQ5b2k3eEdYblpwS3NGUi1kWnpLeWdTWmZhWlQ1alJWTUtIT0h6MUYzNDFn?oc=5
+**Published:** Fri, 13 Mar 2026 20:33:46 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHBydTU4cHRWOVJpWndpUWRKSmxiUzF6bUw2dzNfWmR6bkhpeTBSamkxUlN4ZWF6Zk9uYVg3T0tISU1Dd1VmY18tbVI1MDJJTG1vSmZFbWJaRlB0TDFvTV9YMlA4SjNuVEotRGZxSDhOWEN6bzUzWENhSnZUbmNVOXJfbVh3bzB3amhEMFNJUXZxcW5GN1JVTWpjSFQ5b2k3eEdYblpwS3NGUi1kWnpLeWdTWmZhWlQ1alJWTUtIT0h6MUYzNDFn?oc=5" target="_blank">Insider Selling: Guidewire Software (NYSE:GWRE) CFO Sells 4,757 Shares of Stock</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
+
+## 86. Guidewire Software Insider Sold Shares Worth $755,031, According to a Recent SEC Filing - marketscreener.com
+
+**Link:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0h2cktIVmsxZ1VlRENZT0pxMjYxSDlCRWZ3ZzVpRWJLM0h6aEhZSmdUeHdpYjUzNGpaVkNsZWVoQXhoV1RfQndrR3NaQTV1X094SnRNZ3JQYU4xQm1xNk1UNFVBTFlUYjlSdkQxQUVkTW94eHZpN0JweHg5bThXTkNSMUZYNXJBYzZPYVBuZmJIVGtDZHdGT3g1Y2c4X1M1Y0NrcHhYdFNJZzVZRnd5Ymlkd3ZXM2tRU3c1VWZwdzA4UlpVVnVPaUJuNEVkZ0drRkxHUg?oc=5
+**Published:** Fri, 13 Mar 2026 20:19:57 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0h2cktIVmsxZ1VlRENZT0pxMjYxSDlCRWZ3ZzVpRWJLM0h6aEhZSmdUeHdpYjUzNGpaVkNsZWVoQXhoV1RfQndrR3NaQTV1X094SnRNZ3JQYU4xQm1xNk1UNFVBTFlUYjlSdkQxQUVkTW94eHZpN0JweHg5bThXTkNSMUZYNXJBYzZPYVBuZmJIVGtDZHdGT3g1Y2c4X1M1Y0NrcHhYdFNJZzVZRnd5Ymlkd3ZXM2tRU3c1VWZwdzA4UlpVVnVPaUJuNEVkZ0drRkxHUg?oc=5" target="_blank">Guidewire Software Insider Sold Shares Worth $755,031, According to a Recent SEC Filing</a>&nbsp;&nbsp;<font color="#6f6f6f">marketscreener.com</font>
+
+---
+
+## 87. Guidewire Software CFO Sells Shares - TradingView
+
+**Link:** https://news.google.com/rss/articles/CBMingFBVV95cUxOY003ZzY3am16cWFBcGVPRWhrUzRSdDczQ1MtVHp3NkNWTWpoS00zUm15WHNueGE4TVZCeE5HMjIxM3QtYlBqWFI1a2NIVmswTk5yT3NTVzFuX2IwczJ6QVVOUm0yYkpSTHhfYnZJcmdtRnJ6MTc0OG5SSjRZa0E2anZQYW5pWFhLbU80WnZ2ZlFhekpqUkhhamxUajRuZw?oc=5
+**Published:** Fri, 13 Mar 2026 20:10:01 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOY003ZzY3am16cWFBcGVPRWhrUzRSdDczQ1MtVHp3NkNWTWpoS00zUm15WHNueGE4TVZCeE5HMjIxM3QtYlBqWFI1a2NIVmswTk5yT3NTVzFuX2IwczJ6QVVOUm0yYkpSTHhfYnZJcmdtRnJ6MTc0OG5SSjRZa0E2anZQYW5pWFhLbU80WnZ2ZlFhekpqUkhhamxUajRuZw?oc=5" target="_blank">Guidewire Software CFO Sells Shares</a>&nbsp;&nbsp;<font color="#6f6f6f">TradingView</font>
+
+---
+
+## 88. ‘Nation’s First’ Smoke Damage Standards Bill Wending Through California Legislature
+
+**Link:** https://www.insurancejournal.com/news/west/2026/03/13/861910.htm
+**Published:** Fri, 13 Mar 2026 19:12:23 +0000
+**Source:** News Archives - Insurance Journal
+
+A bill to create a statewide framework for handling wildfire smoke damage insurance claims is now making its way through California Legislature. The Smoke Damage Recovery Act, which primary backer Insurance Commissioner Ricardo Lara said stems from the recovery process &#8230;
+
+---
+
+## 89. Insurers Under Allstate Group File Louisiana Rate Decreases for Personal Auto
+
+**Link:** https://www.insurancejournal.com/news/southcentral/2026/03/13/861883.htm
+**Published:** Fri, 13 Mar 2026 15:39:21 +0000
+**Source:** News Archives - Insurance Journal
+
+Louisiana Insurance Commissioner Tim Temple announced this week that two insurers under the Allstate group have filed rate decrease for some personal auto policyholders. Temple has finalized the rate changes, the Louisiana Department of Insurance said. Imperial Fire &#38; Casualty &#8230;
+
+---
+
+## 90. Estee Lauder Companies Sues Perfumer Jo Malone, Zara UK for Using Malone Name
+
+**Link:** https://www.insurancejournal.com/news/international/2026/03/13/861846.htm
+**Published:** Fri, 13 Mar 2026 15:33:58 +0000
+**Source:** News Archives - Insurance Journal
+
+Cosmetics giant Estee Lauder Companies has filed a lawsuit against British entrepreneur Jo Malone, her fragrance brand &#8220;Jo Loves&#8221; and Zara&#8217;s UK business, it said on Thursday, over the use of Malone&#8217;s name on certain products. Estee Lauder Companies bought &#8230;
+
+---
+
+## 91. Nine Claims Trends to Watch Through the Rest of 2026
+
+**Link:** https://www.insurancejournal.com/news/national/2026/03/13/861869.htm
+**Published:** Fri, 13 Mar 2026 13:00:59 +0000
+**Source:** News Archives - Insurance Journal
+
+Catastrophe, resilience, automation, digital transformation, personalization of the claims experience, talent strategies, operational flexibility—there are a mouthful of trends to talk about in the still-young year. A new report from Crawford &#38; Company forecasts trends that will be reshaping the &#8230;
+
+---
+
+## 92. Kentucky Launches $5 Million Roof Grant Program
+
+**Link:** https://www.insurancejournal.com/news/southeast/2026/03/13/861863.htm
+**Published:** Fri, 13 Mar 2026 12:28:14 +0000
+**Source:** News Archives - Insurance Journal
+
+Kentucky, far inland from where most hurricanes land but a place all too familiar with high winds and hail, has become the latest state to offer grants for stronger roofs. Gov. Andy Beshear announced this week that the Strengthen Kentucky &#8230;
+
+---
+
+## 93. Judge Weighs If Penn Must Produce Jewish Employees’ Records for Antisemitism Probe
+
+**Link:** https://www.insurancejournal.com/news/east/2026/03/13/861860.htm
+**Published:** Fri, 13 Mar 2026 12:15:22 +0000
+**Source:** News Archives - Insurance Journal
+
+The federal government&#8217;s demand for information about the membership of Jewish groups from the University of Pennsylvania in an investigation into whether antisemitism has created a hostile environment for employees landed Tuesday before a federal judge who will decide whether &#8230;
+
+---
+
+## 94. Only 3 in 10 Americans Review Insurance Annually, Says Big I Survey
+
+**Link:** https://www.insurancejournal.com/news/national/2026/03/13/861857.htm
+**Published:** Fri, 13 Mar 2026 12:05:31 +0000
+**Source:** News Archives - Insurance Journal
+
+Though people understand the importance and value of insurance, a policy is only something they think about when something goes wrong. According to a new survey from the Independent Insurance Agents &#38; Brokers of America (the Big I), nine of &#8230;
+
+---
+
+## 95. Delivery Service Company Faces Allegations of Pregnancy Discrimination in Louisiana
+
+**Link:** https://www.insurancejournal.com/news/southcentral/2026/03/13/861806.htm
+**Published:** Fri, 13 Mar 2026 10:30:26 +0000
+**Source:** News Archives - Insurance Journal
+
+The U.S. Equal Employment Opportunity Commission (EEOC) filed an action in federal court to enforce a subpoena issued during its investigation into allegations against JamRock Solutions LLC. JamRock Solutions is an Amazon delivery service partner, and a charge received by &#8230;
+
+---
+
+## 96. Markets/Coverages: Coalition Provides Expended Cyber Protection in Canada
+
+**Link:** https://www.insurancejournal.com/news/international/2026/03/13/861837.htm
+**Published:** Fri, 13 Mar 2026 09:58:15 +0000
+**Source:** News Archives - Insurance Journal
+
+Coalition, the San Francisco-based cyber managing general agent and cyber-security firm, announced it is offering expanded cyber cover in Canada. Coalition said its &#8220;Active Cyber Policy&#8221; expands protection for Canadian organizations facing faster-moving ransomware attacks, AI-enabled fraud, and growing regulatory &#8230;
+
+---
+
+## 97. Iran’s New Supreme Leader Vows to Keep Hormuz Shut, Netanyahu Issues Threat
+
+**Link:** https://www.insurancejournal.com/news/international/2026/03/13/861832.htm
+**Published:** Fri, 13 Mar 2026 09:29:03 +0000
+**Source:** News Archives - Insurance Journal
+
+Iran will fight on and keep the Strait of Hormuz shut as leverage against the United States and Israel, new Supreme Leader Mojtaba Khamenei said on Thursday in defiant first comments attributed to him since he succeeded his slain father. &#8230;
+
+---
+
+## 98. Satellite Firm ICEYE Targets €1 Billion Revenue Next Year
+
+**Link:** https://www.insurancejournal.com/news/international/2026/03/13/861819.htm
+**Published:** Fri, 13 Mar 2026 09:02:23 +0000
+**Source:** News Archives - Insurance Journal
+
+Finnish satellite intelligence company ICEYE Oy is on track to grow revenue to more than €1 billion ($1.2 billion) next year as a raft of government orders allows it to ramp up production. Revenue last year exceeded €250 million, more &#8230;
+
+---
+
+## 99. Canadian Telecom Telus Says It’s Investigating Cyber Breach
+
+**Link:** https://www.insurancejournal.com/news/international/2026/03/13/861816.htm
+**Published:** Fri, 13 Mar 2026 08:39:53 +0000
+**Source:** News Archives - Insurance Journal
+
+Canadian telecommunications provider Telus Corp. said it&#8217;s investigating a cybersecurity incident. The breach involves &#8220;unauthorized access to a limited number of our systems,&#8221; a spokesperson for Telus Digital said by email. &#8220;Upon discovery, we took immediate steps to address the &#8230;
+
+---
+
+## 100. Franklin Resources Inc. Grows Stock Position in Guidewire Software, Inc. $GWRE - MarketBeat
+
+**Link:** https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekc5eWljbm1JOWRwQTlBZWRaUFlwUVFVZC1JS21BZFlXUWtUWHpuUVpaaWZMUTMwa0VFSUxsVUJzZVJTMDVZYTZCeVhoLWRlY0wyZDNGUVk3a3BmQnV5eTM4Y08yYW8yUkZLU1ZUT0dXRGt1X0xBVFFESkgwY2QzRUswcUQ4N2k1X1JNak9mY0tFb3pkMjJ1NDJKWXNSek5DMmFEOUl0MnIxbVY1RzFUd0J4c3ZEa3BRMUlaeTJldENjNHpmUEs2N0F1clJmYkh1?oc=5
+**Published:** Fri, 13 Mar 2026 08:25:17 GMT
+**Source:** "Guidewire Software" - Google News
+
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPekc5eWljbm1JOWRwQTlBZWRaUFlwUVFVZC1JS21BZFlXUWtUWHpuUVpaaWZMUTMwa0VFSUxsVUJzZVJTMDVZYTZCeVhoLWRlY0wyZDNGUVk3a3BmQnV5eTM4Y08yYW8yUkZLU1ZUT0dXRGt1X0xBVFFESkgwY2QzRUswcUQ4N2k1X1JNak9mY0tFb3pkMjJ1NDJKWXNSek5DMmFEOUl0MnIxbVY1RzFUd0J4c3ZEa3BRMUlaeTJldENjNHpmUEs2N0F1clJmYkh1?oc=5" target="_blank">Franklin Resources Inc. Grows Stock Position in Guidewire Software, Inc. $GWRE</a>&nbsp;&nbsp;<font color="#6f6f6f">MarketBeat</font>
+
+---
