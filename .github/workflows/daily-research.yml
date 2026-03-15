@@ -53,7 +53,7 @@ jobs:
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: /
+          path: docs/
 
       # Optional: To persist output data back to the repo for history
       - name: Commit data files
