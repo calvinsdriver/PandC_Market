@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>P&C Market Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --border: #2d3a4d;
+      --text: #e6edf3;
+      --text-muted: #8b9cb3;
+      --accent: #3fb950;
+      --accent-dim: #238636;
+      --negative: #f85149;
+      --link: #58a6ff;
+      --radius: 10px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'DM Sans', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    header {
+      padding: 2rem 0 1.5rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2rem;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 0.25rem 0;
+    }
+
+    .sub {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1rem;
+      margin-top: 1rem;
+    }
+
+    nav a {
+      color: var(--link);
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      margin-bottom: 3rem;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    .summary-grid section {
+      margin-bottom: 0;
+    }
+
+    .section-title {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .section-title .badge {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    th,
+    td {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      color: var(--text-muted);
+      font-weight: 500;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background: var(--surface2);
+    }
+
+    .num {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .positive {
+      color: var(--accent);
+    }
+
+    .negative {
+      color: var(--negative);
+    }
+
+    .summary-prose {
+      padding: 1.25rem 1.5rem;
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+
+    .summary-prose p {
+      margin: 0 0 1rem 0;
+    }
+
+    .summary-prose p:last-child {
+      margin-bottom: 0;
+    }
+
+    .summary-prose strong {
+      color: var(--text);
+    }
+
+    .empty {
+      color: var(--text-muted);
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+      .wrap {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+
+      table {
+        font-size: 0.8rem;
+      }
+
+      th,
+      td {
+        padding: 0.5rem 0.6rem;
+      }
+
+      .hide-mobile {
+        display: none;
+      }
+
+      .summary-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <h1>P&C Market Research</h1>
+      <p class="sub">Stock prices and news — updated daily at 8:00 AM Pacific</p>
+      <nav>
+        <a href="#stocks">Stock prices</a>
+        <a href="#pc-news">P&C news</a>
+        <a href="#guidewire-news">Guidewire &amp; competitors</a>
+        <a href="#ai-news">P&C + AI news</a>
+        <a href="#twitter-news">X (Twitter) posts</a>
+      </nav>
+    </header>
+
+    <section id="stocks">
+      <div class="section-title">
+        P&C insurance stock prices
+        {% if stocks_updated %}<span class="badge">Updated {{ stocks_updated }}</span>{% endif %}
+      </div>
+      <div class="card">
+        {% if stocks %}
+        <table>
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Name</th>
+              <th>Price</th>
+              <th>Change %</th>
+              <th class="hide-mobile">Volume</th>
+              <th class="hide-mobile">Market cap</th>
+              <th style="width: 120px;">1 Year Trend</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for r in stocks %}
+            <tr>
+              <td class="num">{{ r.symbol }}</td>
+              <td>{{ r.name }}</td>
+              <td class="num">{% if r.price is defined %}${{ "%.2f"|format(r.price) }}{% else %}—{% endif %}</td>
+              <td
+                class="num {% if r.change_pct is defined and r.change_pct > 0 %}positive{% elif r.change_pct is defined and r.change_pct < 0 %}negative{% endif %}">
+                {% if r.change_pct is defined %}{{ "%.2f"|format(r.change_pct) }}%{% else %}—{% endif %}
+              </td>
+              <td class="num hide-mobile">{% if r.volume is defined %}{{ "{:,}".format(r.volume) }}{% else %}—{% endif
+                %}</td>
+              <td class="num hide-mobile">{% if r.market_cap is defined %}${{ "%.2f"|format(r.market_cap / 1e9) }}B{%
+                else %}—{% endif %}</td>
+              <td>
+                {% if r.sparkline_pts %}
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="{{ r.sparkline_color }}" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="{{ r.sparkline_pts }}" />
+                </svg>
+                {% else %}
+                —
+                {% endif %}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        {% else %}
+        <p class="empty">No stock data yet. Run <code>python service.py --once</code> to generate.</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <div class="summary-grid">
+      <section id="pc-news">
+        <div class="section-title">
+          P&C insurance news — deep summary
+          {% if pc_summary_updated %}<span class="badge">Updated {{ pc_summary_updated }}</span>{% endif %}
+        </div>
+        <div class="card">
+          {% if pc_summary_html %}
+          <div class="summary-prose">{{ pc_summary_html|safe }}</div>
+          {% else %}
+          <p class="empty">Set <code>XAI_API_KEY</code> and run <code>python service.py --once</code> to generate an LLM
+            deep summary of P&C news.</p>
+          {% endif %}
+        </div>
+      </section>
+
+      <section id="guidewire-news">
+        <div class="section-title">
+          Guidewire Software &amp; competitors — deep summary
+          {% if guidewire_summary_updated %}<span class="badge">Updated {{ guidewire_summary_updated }}</span>{% endif
+          %}
+        </div>
+        <div class="card">
+          {% if guidewire_summary_html %}
+          <div class="summary-prose">{{ guidewire_summary_html|safe }}</div>
+          {% else %}
+          <p class="empty">Set <code>XAI_API_KEY</code> and run the research service to generate a deep summary of
+            Guidewire and competitors news.</p>
+          {% endif %}
+        </div>
+      </section>
+
+      <section id="ai-news">
+        <div class="section-title">
+          P&C insurers &amp; AI — deep summary
+          {% if ai_summary_updated %}<span class="badge">Updated {{ ai_summary_updated }}</span>{% endif %}
+        </div>
+        <div class="card">
+          {% if ai_summary_html %}
+          <div class="summary-prose">{{ ai_summary_html|safe }}</div>
+          {% else %}
+          <p class="empty">Set <code>XAI_API_KEY</code> and run the research service to generate a deep summary of P&C +
+            AI news.</p>
+          {% endif %}
+        </div>
+      </section>
+
+      <section id="twitter-news">
+        <div class="section-title">
+          X (Twitter) posts — deep summary
+          {% if twitter_summary_updated %}<span class="badge">Updated {{ twitter_summary_updated }}</span>{% endif %}
+        </div>
+        <div class="card" style="height: 100%;">
+          {% if twitter_summary_html %}
+          <div class="summary-prose">{{ twitter_summary_html|safe }}</div>
+          {% else %}
+          <p class="empty">Set <code>XAI_API_KEY</code> and run the research service to generate a deep summary of
+            X/Twitter posts.</p>
+          {% endif %}
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+
+</html>

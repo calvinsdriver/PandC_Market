@@ -1,0 +1,31 @@
+# P&C Market Research Service
+# Python 3.10+
+
+# Stock prices (Yahoo Finance, no API key)
+yfinance>=0.2.36
+certifi>=2024.2.2
+
+# Scheduling (8am Pacific daily)
+apscheduler>=3.10.4
+pytz>=2024.1
+
+# News: RSS parsing
+feedparser>=6.0.10
+httpx>=0.27.0
+
+# Optional: NewsAPI (set NEWS_API_KEY in .env)
+# requests is used by optional news backends
+requests>=2.31.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Web dashboard
+flask>=3.0.0
+markdown>=3.5.0
+
+# LLM summaries via xAI (set XAI_API_KEY)
+openai>=1.12.0
+
+# X.com scraping
+playwright>=1.40.0

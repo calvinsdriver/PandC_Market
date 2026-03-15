@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>P&C Market Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --border: #2d3a4d;
+      --text: #e6edf3;
+      --text-muted: #8b9cb3;
+      --accent: #3fb950;
+      --accent-dim: #238636;
+      --negative: #f85149;
+      --link: #58a6ff;
+      --radius: 10px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'DM Sans', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    header {
+      padding: 2rem 0 1.5rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2rem;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 0.25rem 0;
+    }
+
+    .sub {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1rem;
+      margin-top: 1rem;
+    }
+
+    nav a {
+      color: var(--link);
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      margin-bottom: 3rem;
+    }
+
+    .summary-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    .summary-grid section {
+      margin-bottom: 0;
+    }
+
+    .section-title {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .section-title .badge {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    th,
+    td {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      color: var(--text-muted);
+      font-weight: 500;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background: var(--surface2);
+    }
+
+    .num {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .positive {
+      color: var(--accent);
+    }
+
+    .negative {
+      color: var(--negative);
+    }
+
+    .summary-prose {
+      padding: 1.25rem 1.5rem;
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+
+    .summary-prose p {
+      margin: 0 0 1rem 0;
+    }
+
+    .summary-prose p:last-child {
+      margin-bottom: 0;
+    }
+
+    .summary-prose strong {
+      color: var(--text);
+    }
+
+    .empty {
+      color: var(--text-muted);
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+      .wrap {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+
+      table {
+        font-size: 0.8rem;
+      }
+
+      th,
+      td {
+        padding: 0.5rem 0.6rem;
+      }
+
+      .hide-mobile {
+        display: none;
+      }
+
+      .summary-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <h1>P&C Market Research</h1>
+      <p class="sub">Stock prices and news — updated daily at 8:00 AM Pacific</p>
+      <nav>
+        <a href="#stocks">Stock prices</a>
+        <a href="#pc-news">P&C news</a>
+        <a href="#guidewire-news">Guidewire &amp; competitors</a>
+        <a href="#ai-news">P&C + AI news</a>
+        <a href="#twitter-news">X (Twitter) posts</a>
+      </nav>
+    </header>
+
+    <section id="stocks">
+      <div class="section-title">
+        P&C insurance stock prices
+        <span class="badge">Updated 2026-03-15T06-43-54Z</span>
+      </div>
+      <div class="card">
+        
+        <table>
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Name</th>
+              <th>Price</th>
+              <th>Change %</th>
+              <th class="hide-mobile">Volume</th>
+              <th class="hide-mobile">Market cap</th>
+              <th style="width: 120px;">1 Year Trend</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+            <tr>
+              <td class="num">CB</td>
+              <td>Chubb Limited</td>
+              <td class="num">$328.97</td>
+              <td
+                class="num negative">
+                -0.44%
+              </td>
+              <td class="num hide-mobile">1,669,434</td>
+              <td class="num hide-mobile">$129.47B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,19.2 2.0,20.2 4.1,18.2 6.1,24.5 8.2,23.4 10.2,24.9 12.2,23.9 14.3,21.7 16.3,20.9 18.4,19.0 20.4,20.9 22.4,18.2 24.5,22.3 26.5,22.9 28.6,23.3 30.6,24.4 32.7,24.2 34.7,26.2 36.7,28.3 38.8,30.0 40.8,28.7 42.9,26.1 44.9,24.9 46.9,27.1 49.0,25.5 51.0,25.2 53.1,26.9 55.1,24.1 57.1,22.8 59.2,23.2 61.2,29.1 63.3,23.6 65.3,25.6 67.3,21.4 69.4,18.2 71.4,17.1 73.5,18.8 75.5,17.5 77.6,11.3 79.6,12.0 81.6,10.7 83.7,13.7 85.7,16.0 87.8,16.0 89.8,13.9 91.8,3.8 93.9,3.3 95.9,3.7 98.0,0.0 100.0,5.2" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">PGR</td>
+              <td>Progressive Corporation (The)</td>
+              <td class="num">$205.17</td>
+              <td
+                class="num negative">
+                -0.63%
+              </td>
+              <td class="num hide-mobile">2,552,776</td>
+              <td class="num hide-mobile">$120.21B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--negative)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,1.7 2.0,5.7 4.1,3.5 6.1,11.2 8.2,4.6 10.2,11.3 12.2,6.8 14.3,2.2 16.3,2.9 18.4,0.0 20.4,3.5 22.4,0.4 24.5,8.3 26.5,8.2 28.6,10.4 30.6,11.1 32.7,14.2 34.7,14.9 36.7,14.9 38.8,16.9 40.8,15.7 42.9,13.6 44.9,14.3 46.9,15.4 49.0,16.2 51.0,14.6 53.1,16.7 55.1,16.3 57.1,15.5 59.2,17.6 61.2,22.8 63.3,25.2 65.3,30.0 67.3,25.9 69.4,23.0 71.4,22.4 73.5,22.0 75.5,23.7 77.6,18.9 79.6,22.2 81.6,21.2 83.7,24.0 85.7,25.4 87.8,24.9 89.8,24.3 91.8,24.6 93.9,25.4 95.9,26.0 98.0,22.2 100.0,23.4" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">TRV</td>
+              <td>The Travelers Companies, Inc.</td>
+              <td class="num">$302.49</td>
+              <td
+                class="num negative">
+                -0.95%
+              </td>
+              <td class="num hide-mobile">828,493</td>
+              <td class="num hide-mobile">$67.47B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,22.0 2.0,23.8 4.1,21.6 6.1,30.0 8.2,28.8 10.2,26.9 12.2,21.7 14.3,19.2 16.3,19.0 18.4,16.2 20.4,15.6 22.4,15.5 24.5,20.7 26.5,20.1 28.6,21.6 30.6,23.1 32.7,23.7 34.7,21.2 36.7,21.1 38.8,21.8 40.8,19.7 42.9,18.3 44.9,15.5 46.9,17.5 49.0,15.4 51.0,13.3 53.1,14.2 55.1,13.8 57.1,10.9 59.2,17.1 61.2,20.6 63.3,17.2 65.3,17.8 67.3,13.0 69.4,9.7 71.4,8.5 73.5,8.3 75.5,12.9 77.6,7.8 79.6,7.4 81.6,7.0 83.7,11.0 85.7,15.5 87.8,13.1 89.8,10.5 91.8,3.6 93.9,4.9 95.9,1.6 98.0,0.0 100.0,1.0" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">ALL</td>
+              <td>Allstate Corporation (The)</td>
+              <td class="num">$206.17</td>
+              <td
+                class="num negative">
+                -0.64%
+              </td>
+              <td class="num hide-mobile">747,313</td>
+              <td class="num hide-mobile">$53.51B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,10.2 2.0,11.2 4.1,11.2 6.1,30.0 8.2,24.3 10.2,29.6 12.2,21.6 14.3,17.1 16.3,15.0 18.4,7.9 20.4,10.5 22.4,6.7 24.5,19.8 26.5,18.1 28.6,25.0 30.6,21.4 32.7,21.4 34.7,23.0 36.7,22.2 38.8,13.3 40.8,11.7 42.9,8.1 44.9,10.2 46.9,12.8 49.0,14.0 51.0,15.1 53.1,9.7 55.1,3.3 57.1,5.1 59.2,10.1 61.2,19.4 63.3,22.0 65.3,23.6 67.3,13.3 69.4,1.8 71.4,1.8 73.5,5.0 75.5,13.7 77.6,3.1 79.6,6.6 81.6,5.8 83.7,7.6 85.7,18.4 87.8,19.1 89.8,16.1 91.8,0.0 93.9,8.3 95.9,8.5 98.0,0.6 100.0,1.7" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">WRB</td>
+              <td>W.R. Berkley Corporation</td>
+              <td class="num">$68.76</td>
+              <td
+                class="num negative">
+                -0.98%
+              </td>
+              <td class="num hide-mobile">1,391,508</td>
+              <td class="num hide-mobile">$26.13B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,30.0 2.0,30.0 4.1,14.5 6.1,25.8 8.2,20.0 10.2,22.1 12.2,15.7 14.3,12.2 16.3,12.7 18.4,9.6 20.4,8.9 22.4,7.8 24.5,13.5 26.5,11.4 28.6,12.4 30.6,14.4 32.7,17.5 34.7,19.5 36.7,18.7 38.8,18.2 40.8,15.7 42.9,12.9 44.9,11.0 46.9,13.5 49.0,12.1 51.0,8.5 53.1,9.3 55.1,4.3 57.1,2.4 59.2,0.9 61.2,7.9 63.3,6.0 65.3,13.1 67.3,6.1 69.4,2.1 71.4,0.0 73.5,9.9 75.5,22.3 77.6,15.3 79.6,13.1 81.6,12.0 83.7,16.5 85.7,15.2 87.8,18.4 89.8,17.0 91.8,11.0 93.9,10.3 95.9,11.4 98.0,10.0 100.0,13.5" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">CINF</td>
+              <td>Cincinnati Financial Corporatio</td>
+              <td class="num">$163.82</td>
+              <td
+                class="num negative">
+                -1.25%
+              </td>
+              <td class="num hide-mobile">802,817</td>
+              <td class="num hide-mobile">$25.56B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,19.2 2.0,19.1 4.1,18.5 6.1,27.4 8.2,27.8 10.2,30.0 12.2,24.8 14.3,19.6 16.3,15.7 18.4,15.1 20.4,16.0 22.4,14.7 24.5,17.6 26.5,18.7 28.6,19.2 30.6,17.6 32.7,16.5 34.7,15.7 36.7,16.5 38.8,16.7 40.8,14.2 42.9,12.4 44.9,13.2 46.9,12.9 49.0,12.9 51.0,10.7 53.1,11.2 55.1,10.1 57.1,5.9 59.2,8.7 61.2,12.6 63.3,10.2 65.3,11.6 67.3,5.0 69.4,5.5 71.4,4.1 73.5,4.1 75.5,7.2 77.6,3.5 79.6,3.0 81.6,4.3 83.7,5.5 85.7,5.1 87.8,8.7 89.8,8.7 91.8,0.0 93.9,4.2 95.9,5.6 98.0,4.9 100.0,4.0" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">MKL</td>
+              <td>Markel Group Inc.</td>
+              <td class="num">$1942.78</td>
+              <td
+                class="num negative">
+                -1.18%
+              </td>
+              <td class="num hide-mobile">35,688</td>
+              <td class="num hide-mobile">$24.50B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,21.6 2.0,22.4 4.1,21.2 6.1,29.7 8.2,26.6 10.2,30.0 12.2,23.9 14.3,20.4 16.3,17.1 18.4,17.1 20.4,17.8 22.4,14.5 24.5,16.6 26.5,15.5 28.6,14.1 30.6,14.3 32.7,12.2 34.7,10.5 36.7,11.6 38.8,11.3 40.8,18.4 42.9,14.8 44.9,13.8 46.9,14.7 49.0,17.5 51.0,14.8 53.1,16.0 55.1,17.4 57.1,15.6 59.2,17.2 61.2,18.8 63.3,19.6 65.3,13.5 67.3,9.4 69.4,7.9 71.4,9.6 73.5,7.0 75.5,7.7 77.6,1.5 79.6,0.0 81.6,0.6 83.7,2.4 85.7,5.5 87.8,8.8 89.8,10.5 91.8,5.7 93.9,6.5 95.9,6.5 98.0,7.1 100.0,12.9" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">AFG</td>
+              <td>American Financial Group, Inc.</td>
+              <td class="num">$128.09</td>
+              <td
+                class="num negative">
+                -1.23%
+              </td>
+              <td class="num hide-mobile">330,971</td>
+              <td class="num hide-mobile">$10.67B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,26.4 2.0,27.0 4.1,21.4 6.1,30.0 8.2,25.9 10.2,25.4 12.2,23.4 14.3,21.5 16.3,27.5 18.4,23.6 20.4,27.5 22.4,26.4 24.5,27.1 26.5,27.4 28.6,28.3 30.6,25.6 32.7,23.0 34.7,22.6 36.7,24.2 38.8,25.1 40.8,22.0 42.9,16.2 44.9,16.5 46.9,12.8 49.0,10.6 51.0,9.3 53.1,7.9 55.1,3.7 57.1,0.0 59.2,11.8 61.2,17.7 63.3,16.5 65.3,17.1 67.3,5.0 69.4,5.7 71.4,8.0 73.5,11.1 75.5,14.4 77.6,8.9 79.6,8.4 81.6,8.4 83.7,13.4 85.7,14.9 87.8,17.7 89.8,17.3 91.8,16.3 93.9,17.1 95.9,14.1 98.0,11.1 100.0,13.5" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">AIZ</td>
+              <td>Assurant, Inc.</td>
+              <td class="num">$218.53</td>
+              <td
+                class="num positive">
+                0.40%
+              </td>
+              <td class="num hide-mobile">199,103</td>
+              <td class="num hide-mobile">$10.94B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,16.6 2.0,18.8 4.1,19.0 6.1,28.5 8.2,27.2 10.2,30.0 12.2,25.9 14.3,23.8 16.3,21.1 18.4,20.4 20.4,21.6 22.4,19.3 24.5,23.7 26.5,22.6 28.6,24.4 30.6,25.8 32.7,26.7 34.7,27.6 36.7,29.2 38.8,28.0 40.8,20.8 42.9,15.4 44.9,14.5 46.9,12.6 49.0,15.9 51.0,15.0 53.1,16.6 55.1,13.7 57.1,11.5 59.2,12.8 61.2,16.9 63.3,15.5 65.3,15.6 67.3,9.4 69.4,7.3 71.4,8.2 73.5,8.4 75.5,10.2 77.6,4.5 79.6,0.5 81.6,0.2 83.7,2.9 85.7,2.2 87.8,2.5 89.8,1.9 91.8,0.0 93.9,13.8 95.9,8.5 98.0,5.9 100.0,9.2" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">AXS</td>
+              <td>Axis Capital Holdings Limited</td>
+              <td class="num">$100.90</td>
+              <td
+                class="num negative">
+                -0.42%
+              </td>
+              <td class="num hide-mobile">366,152</td>
+              <td class="num hide-mobile">$7.77B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,25.7 2.0,23.8 4.1,16.6 6.1,30.0 8.2,26.5 10.2,28.1 12.2,21.6 14.3,15.8 16.3,14.3 18.4,10.6 20.4,10.9 22.4,7.3 24.5,14.3 26.5,11.6 28.6,14.3 30.6,17.3 32.7,19.2 34.7,19.3 36.7,21.0 38.8,24.4 40.8,21.0 42.9,18.7 44.9,16.1 46.9,16.6 49.0,18.6 51.0,15.9 53.1,21.9 55.1,20.9 57.1,23.3 59.2,20.5 61.2,26.5 63.3,28.7 65.3,24.7 67.3,15.2 69.4,10.9 71.4,13.0 73.5,10.9 75.5,16.7 77.6,4.0 79.6,0.0 81.6,0.3 83.7,9.2 85.7,14.0 87.8,9.7 89.8,7.9 91.8,3.8 93.9,12.6 95.9,6.4 98.0,5.2 100.0,9.6" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">CNA</td>
+              <td>CNA Financial Corporation</td>
+              <td class="num">$46.59</td>
+              <td
+                class="num negative">
+                -1.36%
+              </td>
+              <td class="num hide-mobile">241,228</td>
+              <td class="num hide-mobile">$12.61B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,12.2 2.0,13.2 4.1,7.4 6.1,20.2 8.2,18.0 10.2,20.8 12.2,17.5 14.3,15.7 16.3,12.4 18.4,11.8 20.4,15.8 22.4,14.2 24.5,23.2 26.5,25.8 28.6,24.3 30.6,24.1 32.7,30.0 34.7,29.4 36.7,29.9 38.8,28.5 40.8,18.1 42.9,15.4 44.9,7.3 46.9,8.1 49.0,12.4 51.0,14.4 53.1,22.2 55.1,18.6 57.1,18.8 59.2,17.7 61.2,22.2 63.3,22.6 65.3,26.0 67.3,23.3 69.4,19.1 71.4,16.6 73.5,17.8 75.5,25.7 77.6,13.4 79.6,11.2 81.6,10.9 83.7,16.2 85.7,17.8 87.8,17.3 89.8,11.4 91.8,2.3 93.9,7.0 95.9,2.8 98.0,0.6 100.0,0.0" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">EG</td>
+              <td>Everest Group, Ltd.</td>
+              <td class="num">$320.36</td>
+              <td
+                class="num negative">
+                -1.26%
+              </td>
+              <td class="num hide-mobile">172,163</td>
+              <td class="num hide-mobile">$12.94B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--negative)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,3.1 2.0,5.5 4.1,0.0 6.1,14.5 8.2,7.2 10.2,11.1 12.2,4.0 14.3,8.5 16.3,8.2 18.4,8.4 20.4,10.6 22.4,5.0 24.5,13.7 26.5,15.7 28.6,13.7 30.6,15.1 32.7,11.3 34.7,15.1 36.7,16.3 38.8,14.0 40.8,18.5 42.9,13.3 44.9,6.9 46.9,11.7 49.0,11.6 51.0,6.1 53.1,14.3 55.1,6.3 57.1,1.8 59.2,7.7 61.2,6.3 63.3,6.4 65.3,26.4 67.3,19.7 69.4,19.6 71.4,28.3 73.5,27.8 75.5,30.0 77.6,18.2 79.6,14.1 81.6,10.9 83.7,16.6 85.7,19.8 87.8,22.3 89.8,17.6 91.8,19.8 93.9,13.8 95.9,10.1 98.0,14.2 100.0,15.0" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">KNSL</td>
+              <td>Kinsale Capital Group, Inc.</td>
+              <td class="num">$362.53</td>
+              <td
+                class="num negative">
+                -1.43%
+              </td>
+              <td class="num hide-mobile">109,271</td>
+              <td class="num hide-mobile">$8.43B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--negative)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,7.6 2.0,4.3 4.1,1.6 6.1,6.7 8.2,1.6 10.2,4.1 12.2,14.5 14.3,7.4 16.3,7.3 18.4,3.8 20.4,3.4 22.4,3.4 24.5,6.7 26.5,5.5 28.6,5.2 30.6,3.6 32.7,0.0 34.7,1.2 36.7,2.8 38.8,10.8 40.8,11.0 42.9,7.9 44.9,6.7 46.9,7.5 49.0,7.5 51.0,12.8 53.1,13.5 55.1,15.6 57.1,5.1 59.2,4.3 61.2,9.3 63.3,14.9 65.3,20.0 67.3,20.3 69.4,22.1 71.4,23.3 73.5,25.0 75.5,30.0 77.6,21.6 79.6,20.0 81.6,20.8 83.7,20.2 85.7,20.7 87.8,18.2 89.8,20.9 91.8,17.5 93.9,19.6 95.9,25.8 98.0,22.1 100.0,26.0" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">LMND</td>
+              <td>Lemonade, Inc.</td>
+              <td class="num">$55.15</td>
+              <td
+                class="num positive">
+                3.08%
+              </td>
+              <td class="num hide-mobile">1,692,468</td>
+              <td class="num hide-mobile">$4.21B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,26.1 2.0,26.3 4.1,27.1 6.1,29.0 8.2,29.7 10.2,30.0 12.2,28.4 14.3,28.2 16.3,27.4 18.4,27.2 20.4,26.9 22.4,26.0 24.5,23.3 26.5,24.9 28.6,23.5 30.6,23.1 32.7,24.1 34.7,23.6 36.7,23.7 38.8,24.9 40.8,20.9 42.9,16.1 44.9,17.1 46.9,18.3 49.0,19.6 51.0,18.6 53.1,15.1 55.1,19.1 57.1,17.8 59.2,20.6 61.2,20.5 63.3,18.8 65.3,15.5 67.3,9.1 69.4,11.0 71.4,12.4 73.5,9.0 75.5,8.2 77.6,9.1 79.6,6.0 81.6,10.5 83.7,6.6 85.7,6.5 87.8,0.0 89.8,2.2 91.8,11.9 93.9,14.7 95.9,16.6 98.0,19.0 100.0,17.5" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">MCY</td>
+              <td>Mercury General Corporation</td>
+              <td class="num">$88.96</td>
+              <td
+                class="num positive">
+                0.02%
+              </td>
+              <td class="num hide-mobile">141,503</td>
+              <td class="num hide-mobile">$4.93B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,25.5 2.0,26.3 4.1,26.2 6.1,30.0 8.2,29.0 10.2,28.6 12.2,26.9 14.3,24.6 16.3,23.3 18.4,23.0 20.4,22.5 22.4,20.2 24.5,20.3 26.5,20.7 28.6,20.9 30.6,19.7 32.7,19.4 34.7,18.3 36.7,17.4 38.8,17.5 40.8,16.7 42.9,13.6 44.9,13.1 46.9,12.3 49.0,12.1 51.0,10.6 53.1,10.5 55.1,8.1 57.1,5.7 59.2,10.1 61.2,10.4 63.3,10.7 65.3,12.0 67.3,7.9 69.4,4.9 71.4,2.7 73.5,2.0 75.5,4.2 77.6,1.3 79.6,0.0 81.6,0.8 83.7,3.9 85.7,3.5 87.8,5.5 89.8,5.3 91.8,1.1 93.9,0.3 95.9,5.8 98.0,3.1 100.0,3.2" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">ORI</td>
+              <td>Old Republic International Corp</td>
+              <td class="num">$40.10</td>
+              <td
+                class="num negative">
+                -1.01%
+              </td>
+              <td class="num hide-mobile">1,120,269</td>
+              <td class="num hide-mobile">$9.85B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,26.4 2.0,25.7 4.1,22.2 6.1,29.3 8.2,27.2 10.2,28.2 12.2,25.6 14.3,24.5 16.3,25.0 18.4,23.2 20.4,25.2 22.4,24.3 24.5,28.1 26.5,27.0 28.6,25.8 30.6,25.2 32.7,27.6 34.7,27.3 36.7,30.0 38.8,28.8 40.8,26.4 42.9,22.0 44.9,20.1 46.9,19.2 49.0,16.5 51.0,17.0 53.1,18.2 55.1,12.4 57.1,8.7 59.2,9.1 61.2,13.7 63.3,16.4 65.3,19.2 67.3,14.3 69.4,6.0 71.4,2.0 73.5,3.1 75.5,8.1 77.6,1.5 79.6,0.1 81.6,0.0 83.7,3.0 85.7,2.0 87.8,13.3 89.8,13.3 91.8,6.8 93.9,3.1 95.9,7.2 98.0,2.4 100.0,5.5" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">RDN</td>
+              <td>Radian Group Inc.</td>
+              <td class="num">$32.99</td>
+              <td
+                class="num negative">
+                -1.11%
+              </td>
+              <td class="num hide-mobile">995,902</td>
+              <td class="num hide-mobile">$4.50B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,27.6 2.0,25.3 4.1,21.8 6.1,28.2 8.2,23.7 10.2,30.0 12.2,27.5 14.3,17.1 16.3,16.5 18.4,14.9 20.4,15.8 22.4,16.6 24.5,16.9 26.5,16.0 28.6,8.0 30.6,5.2 32.7,14.4 34.7,15.6 36.7,16.5 38.8,21.7 40.8,18.7 42.9,10.4 44.9,12.6 46.9,11.5 49.0,8.2 51.0,9.3 53.1,0.0 55.1,1.1 57.1,10.6 59.2,17.2 61.2,18.5 63.3,13.7 65.3,14.7 67.3,10.5 69.4,8.7 71.4,8.4 73.5,5.9 75.5,11.4 77.6,3.5 79.6,1.8 81.6,3.0 83.7,6.0 85.7,19.6 87.8,15.5 89.8,17.0 91.8,14.2 93.9,11.9 95.9,16.4 98.0,9.8 100.0,12.6" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">RNR</td>
+              <td>RenaissanceRe Holdings Ltd.</td>
+              <td class="num">$293.78</td>
+              <td
+                class="num negative">
+                -0.02%
+              </td>
+              <td class="num hide-mobile">204,291</td>
+              <td class="num hide-mobile">$12.79B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,27.4 2.0,28.6 4.1,26.3 6.1,30.0 8.2,28.0 10.2,29.2 12.2,28.0 14.3,24.6 16.3,24.1 18.4,24.2 20.4,25.4 22.4,23.1 24.5,26.0 26.5,25.7 28.6,26.8 30.6,28.7 32.7,27.7 34.7,27.5 36.7,27.5 38.8,25.7 40.8,27.3 42.9,26.2 44.9,23.6 46.9,26.5 49.0,26.8 51.0,24.3 53.1,25.8 55.1,22.9 57.1,19.5 59.2,19.2 61.2,22.8 63.3,25.6 65.3,21.6 67.3,15.7 69.4,18.0 71.4,20.4 73.5,17.8 75.5,17.7 77.6,15.0 79.6,10.9 81.6,10.3 83.7,14.0 85.7,14.0 87.8,14.9 89.8,10.7 91.8,2.1 93.9,0.0 95.9,4.5 98.0,3.2 100.0,4.6" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">THG</td>
+              <td>Hanover Insurance Group Inc</td>
+              <td class="num">$173.39</td>
+              <td
+                class="num negative">
+                -0.93%
+              </td>
+              <td class="num hide-mobile">257,337</td>
+              <td class="num hide-mobile">$6.09B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,17.9 2.0,17.3 4.1,15.0 6.1,28.6 8.2,30.0 10.2,28.7 12.2,23.8 14.3,18.9 16.3,19.6 18.4,17.4 20.4,14.4 22.4,11.1 24.5,16.4 26.5,19.0 28.6,20.5 30.6,23.8 32.7,22.5 34.7,21.2 36.7,22.7 38.8,15.1 40.8,16.9 42.9,15.1 44.9,12.8 46.9,13.4 49.0,9.6 51.0,6.3 53.1,11.3 55.1,7.2 57.1,3.2 59.2,8.9 61.2,14.7 63.3,11.4 65.3,15.0 67.3,7.0 69.4,5.4 71.4,3.5 73.5,1.2 75.5,8.4 77.6,0.0 79.6,0.4 81.6,1.8 83.7,7.4 85.7,14.4 87.8,13.4 89.8,11.5 91.8,7.5 93.9,13.7 95.9,9.5 98.0,5.2 100.0,7.9" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">SIGI</td>
+              <td>Selective Insurance Group, Inc.</td>
+              <td class="num">$76.41</td>
+              <td
+                class="num negative">
+                -1.33%
+              </td>
+              <td class="num hide-mobile">606,986</td>
+              <td class="num hide-mobile">$4.62B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--negative)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,7.3 2.0,5.6 4.1,0.0 6.1,10.0 8.2,9.4 10.2,6.4 12.2,8.4 14.3,5.5 16.3,2.8 18.4,3.2 20.4,6.3 22.4,3.6 24.5,11.2 26.5,11.7 28.6,12.9 30.6,11.6 32.7,9.1 34.7,5.2 36.7,30.0 38.8,24.6 40.8,25.0 42.9,24.1 44.9,23.6 46.9,23.6 49.0,20.5 51.0,22.0 53.1,24.9 55.1,20.4 57.1,13.7 59.2,16.9 61.2,18.0 63.3,25.2 65.3,28.7 67.3,23.4 69.4,22.2 71.4,23.1 73.5,21.1 75.5,25.4 77.6,12.4 79.6,8.9 81.6,10.9 83.7,11.9 85.7,15.2 87.8,15.4 89.8,11.8 91.8,0.9 93.9,5.0 95.9,9.1 98.0,11.1 100.0,18.5" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">SAFT</td>
+              <td>Safety Insurance Group, Inc.</td>
+              <td class="num">$73.24</td>
+              <td
+                class="num positive">
+                0.78%
+              </td>
+              <td class="num hide-mobile">62,445</td>
+              <td class="num hide-mobile">$1.09B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,12.2 2.0,15.9 4.1,9.9 6.1,16.6 8.2,18.7 10.2,18.4 12.2,15.2 14.3,12.7 16.3,5.4 18.4,0.0 20.4,0.5 22.4,2.6 24.5,7.3 26.5,9.7 28.6,12.2 30.6,14.5 32.7,22.5 34.7,22.5 36.7,27.6 38.8,28.3 40.8,26.3 42.9,18.9 44.9,19.6 46.9,20.5 49.0,21.0 51.0,17.8 53.1,23.3 55.1,24.2 57.1,24.9 59.2,29.2 61.2,28.2 63.3,28.1 65.3,30.0 67.3,16.2 69.4,10.1 71.4,10.8 73.5,12.5 75.5,14.6 77.6,5.7 79.6,3.6 81.6,4.4 83.7,9.7 85.7,11.3 87.8,10.8 89.8,8.0 91.8,0.4 93.9,0.6 95.9,5.1 98.0,6.9 100.0,11.2" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">HIG</td>
+              <td>The Hartford Insurance Group, I</td>
+              <td class="num">$132.93</td>
+              <td
+                class="num negative">
+                -2.32%
+              </td>
+              <td class="num hide-mobile">2,428,313</td>
+              <td class="num hide-mobile">$37.07B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--accent)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,24.8 2.0,24.4 4.1,21.5 6.1,30.0 8.2,27.6 10.2,29.4 12.2,23.3 14.3,18.1 16.3,15.2 18.4,12.2 20.4,12.9 22.4,13.3 24.5,18.4 26.5,17.7 28.6,19.2 30.6,20.3 32.7,21.3 34.7,20.9 36.7,20.2 38.8,18.9 40.8,16.1 42.9,12.0 44.9,10.2 46.9,11.1 49.0,11.2 51.0,10.3 53.1,11.9 55.1,9.7 57.1,9.4 59.2,13.8 61.2,18.3 63.3,17.7 65.3,18.6 67.3,13.4 69.4,9.0 71.4,6.4 73.5,6.8 75.5,12.5 77.6,3.6 79.6,2.7 81.6,3.4 83.7,6.4 85.7,10.3 87.8,12.3 89.8,9.9 91.8,0.0 93.9,0.4 95.9,0.1 98.0,1.5 100.0,2.4" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td class="num">GWRE</td>
+              <td>Guidewire Software, Inc.</td>
+              <td class="num">$160.57</td>
+              <td
+                class="num positive">
+                0.92%
+              </td>
+              <td class="num hide-mobile">1,354,868</td>
+              <td class="num hide-mobile">$13.65B</td>
+              <td>
+                
+                <svg width="100%" height="30" viewBox="0 0 100 30" preserveAspectRatio="none"
+                  style="display: block; overflow: visible;">
+                  <polyline fill="none" stroke="var(--negative)" stroke-width="2"
+                    vector-effect="non-scaling-stroke" points="0.0,16.6 2.0,15.3 4.1,16.2 6.1,19.2 8.2,15.5 10.2,17.2 12.2,13.5 14.3,11.2 16.3,10.4 18.4,10.0 20.4,11.4 22.4,9.4 24.5,2.0 26.5,2.8 28.6,5.5 30.6,7.3 32.7,7.9 34.7,8.8 36.7,8.2 38.8,7.6 40.8,9.6 42.9,11.5 44.9,10.5 46.9,9.3 49.0,0.0 51.0,1.7 53.1,3.5 55.1,6.7 57.1,6.8 59.2,4.8 61.2,3.6 63.3,2.3 65.3,6.0 67.3,9.5 69.4,8.5 71.4,10.6 73.5,10.7 75.5,13.4 77.6,14.7 79.6,11.8 81.6,12.9 83.7,16.2 85.7,19.9 87.8,23.0 89.8,25.1 91.8,29.9 93.9,30.0 95.9,29.5 98.0,25.6 100.0,20.4" />
+                </svg>
+                
+              </td>
+            </tr>
+            
+          </tbody>
+        </table>
+        
+      </div>
+    </section>
+
+    <div class="summary-grid">
+      <section id="pc-news">
+        <div class="section-title">
+          P&C insurance news — deep summary
+          <span class="badge">Updated 2026-03-15T06-43-54Z</span>
+        </div>
+        <div class="card">
+          
+          <div class="summary-prose"><p>As Federal Reserve signals of potential rate cuts intersect with escalating global risks like tariffs and supply chain disruptions, the property and casualty (P&amp;C) insurance sector is experiencing a surge in operational adaptations and competitive pressures. Insurers are capitalizing on improved underwriting results, particularly in U.S. personal lines, driven by lower expenses and digital advancements that are narrowing the gap between top performers and the broader market. Notable players such as Chubb are fortifying their positions through leadership changes and international expansions, while companies like Allstate and Progressive navigate stock volatility and market share rankings, reflecting a broader trend of mergers, acquisitions, and new market entrants in regions like Florida and California.</p>
+<p>Regulatory and market shifts are adding layers of complexity, with initiatives in states like California potentially reshaping insurance regulations and tariff-driven claims increases pressuring profitability for P&amp;C carriers. Products and services are evolving rapidly, as evidenced by recognitions for digital excellence and innovations in auto claims processing, which underscore a push toward AI and hybrid technologies to enhance efficiency and customer engagement. Meanwhile, the sale of operations, such as Generali's divestiture to Zurich, highlights strategic realignments amid economic uncertainty.</p>
+<p>These developments signal both opportunities and risks for the industry and investors: enhanced digital capabilities could drive long-term growth and cost savings, attracting investment in resilient firms, but heightened competition and external factors like inflation could erode margins, urging stakeholders to prioritize companies with strong underwriting and adaptability to navigate an increasingly volatile landscape.</p></div>
+          
+        </div>
+      </section>
+
+      <section id="guidewire-news">
+        <div class="section-title">
+          Guidewire Software &amp; competitors — deep summary
+          <span class="badge">Updated 2026-03-15T06-43-54Z</span>
+        </div>
+        <div class="card">
+          
+          <div class="summary-prose"><p>In the competitive arena of property and casualty insurance technology, core system vendors like Guidewire and Duck Creek are accelerating cloud migrations and AI integrations to address operational inefficiencies. These developments underscore a broader industry shift toward digital modernization, with companies such as Majesco and Sapiens gaining recognition for their advanced platforms that enhance policy administration and claims processing. Duck Creek, in particular, stands out through strategic partnerships, executive appointments like new CEOs and CTOs, and awards for innovation, while Guidewire's strong earnings and cloud platform adoptions highlight its role in enabling faster product launches and data-driven decisions.</p>
+<p>Regulatory and market dynamics, including tariff uncertainties and the push for AI-driven efficiencies, are prompting insurers to overhaul legacy systems, as evidenced by adoptions like Duck Creek's SaaS solutions for health and P&amp;C lines. This evolution is reshaping vendor landscapes, with products like Guidewire's cloud-native platforms helping firms tackle claims blind spots and achieve insight-led growth, while Majesco earns top marks in analyst reports for its P&amp;C and life insurance capabilities. Such advancements signal a move away from outdated infrastructures, emphasizing the need for scalable technologies to handle rising data volumes and regulatory demands.</p>
+<p>For the insurance industry, these trends imply heightened competitiveness, where failure to modernize could exacerbate capability debt and widen digital divides, potentially leading to lost market share. Investors, meanwhile, may find opportunities in high-performing stocks like Guidewire, which has beaten estimates and initiated buybacks, reflecting strong growth potential amid AI's transformative impact, though risks from economic shifts like tariffs could temper enthusiasm for broader tech investments.</p></div>
+          
+        </div>
+      </section>
+
+      <section id="ai-news">
+        <div class="section-title">
+          P&C insurers &amp; AI — deep summary
+          <span class="badge">Updated 2026-03-15T06-43-54Z</span>
+        </div>
+        <div class="card">
+          
+          <div class="summary-prose"><p>As property and casualty insurers harness AI to revolutionize claims processing and underwriting, the sector is grappling with a surge in technological integration that promises efficiency gains but amplifies regulatory and ethical challenges. This evolution is marked by widespread adoption of machine learning for risk assessment, fraud detection, and automated decision-making, with insurtech firms accelerating innovation through generative AI tools that streamline operations from policy issuance to claims settlement. Notable players like State Farm, USAA, and Allstate are leading with aggressive AI patent strategies, while companies such as Manulife and Chubb are deploying agentic AI platforms to enhance automation, reflecting a broader market shift toward data-driven models that reduce costs and improve accuracy.</p>
+<p>Regulatory scrutiny is intensifying in response to these developments, as seen in Florida's push for oversight on AI governance to prevent misuse in claims handling and underwriting, echoing concerns in other states about potential discrimination and transparency. This comes amid growing insurtech funding momentum, particularly for AI-focused startups, which is reshaping competitive dynamics by bridging the global protection gap through embedded insurance solutions. Products like Gradient AI's analytics tools are gaining traction, highlighting how AI is not only optimizing core functions but also addressing emerging risks, such as those from extreme weather events.</p>
+<p>For the industry, these advancements imply a dual-edged sword: enhanced operational resilience and profitability could attract investors, as evidenced by rising AI-driven deals, but unresolved issues like job displacement—exemplified by Chubb's planned staff reductions—and AI liability risks may introduce volatility. Investors should monitor how insurers balance innovation with compliance, as those effectively scaling AI while mitigating ethical pitfalls stand to gain market share in a transforming landscape.</p></div>
+          
+        </div>
+      </section>
+
+      <section id="twitter-news">
+        <div class="section-title">
+          X (Twitter) posts — deep summary
+          <span class="badge">Updated 2026-03-15T06-43-54Z</span>
+        </div>
+        <div class="card" style="height: 100%;">
+          
+          <div class="summary-prose"><p>On X (Twitter), P&amp;C insurance professionals are actively debating the escalating impacts of recent severe weather events, such as Hurricane Helene in the southeastern U.S., on claim processing and premium adjustments. These discussions highlight how insurers are grappling with heightened catastrophe risks amid a backdrop of climate change, with threads featuring real-time insights from underwriters, risk managers, and actuaries on strategies for faster digital claims handling and the strain on reinsurance markets. The conversation underscores a growing consensus that these events are accelerating the adoption of advanced predictive analytics to mitigate future losses, drawing from shared case studies and expert opinions.</p>
+<p>Beyond weather-related topics, professionals are also focusing on regulatory shifts, including the potential implications of new federal guidelines on auto insurance rates and cyber risk disclosures. This includes debates over how proposed changes from bodies like the NAIC could influence profitability in a high-inflation environment, with users exchanging views on balancing consumer protection with operational costs. Insurtech innovators are chiming in, promoting AI-driven solutions for fraud detection and personalized policies, reflecting a broader industry push toward resilience and innovation.</p>
+<p>Overall, these X discussions reveal a sector on high alert, emphasizing the need for adaptive strategies to address both immediate challenges and long-term sustainability in the P&amp;C space. This real-time exchange serves as a valuable barometer for executives monitoring market sentiment and emerging trends.</p></div>
+          
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+
+</html>
