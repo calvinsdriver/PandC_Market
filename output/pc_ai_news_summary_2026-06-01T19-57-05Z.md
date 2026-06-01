@@ -1,0 +1,7 @@
+P&C carriers are rapidly integrating agentic AI platforms into core underwriting and claims workflows, as evidenced by Duck Creek’s new insurance-native tools and patent leadership from State Farm, USAA, and Allstate, while most firms remain in pilot phases despite broad expectations of transformation. 
+
+McKinsey and Bain analyses highlight how generative and agentic systems are compressing decision cycles across the value chain, from geospatial risk modeling and storm-damage assessment to automated fraud detection, yet scaling remains elusive for the majority of insurers. Partnerships such as Skyward Specialty with Gradient AI, Roadzen with Anthropic, and Accenture’s investment in Reserv underscore a shift toward specialized vendors that embed machine learning directly into pricing, claims triage, and back-office operations. 
+
+Regulatory momentum is building in parallel, with North Carolina, Arizona, and multiple other states advancing oversight requirements for explainability and human review in coverage decisions, even as HSB introduces dedicated AI-liability products to address emerging exposures. These moves signal that governance and compliance costs will rise sharply for carriers lacking transparent models. 
+
+For investors, the gap between patent holders and the broader market creates clear differentiation opportunities, while persistent challenges around data quality, workforce reskilling, and AI-driven fraud tools will determine which platforms convert early pilots into durable competitive advantage.
