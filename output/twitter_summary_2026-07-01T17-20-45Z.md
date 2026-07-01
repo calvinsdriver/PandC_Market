@@ -1,0 +1,5 @@
+On X today, P&C insurance professionals are dissecting the latest reinsurance renewal negotiations, with carriers highlighting how 2025 treaty terms are tightening amid elevated catastrophe loss projections from Hurricane Helene and California wildfire seasons. Executives from carriers like Travelers and Chubb are sharing threads on rate adequacy challenges, noting that property lines continue to see double-digit increases as modeling firms revise exposure curves upward. 
+
+Analysts are also weighing the ripple effects on primary carriers’ combined ratios, with several pointing to the growing gap between filed rate increases and actual loss development in homeowners books. Discussions frequently reference state regulatory pushback in Florida and Texas, where approval delays are compressing timelines for 2025 pricing actions. 
+
+A parallel thread centers on insurtech partnerships, as firms explore parametric triggers and AI-driven claims triage to offset margin pressure from traditional property books.

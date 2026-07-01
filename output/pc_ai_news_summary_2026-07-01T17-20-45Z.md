@@ -1,0 +1,7 @@
+P&C carriers are rapidly deploying agentic AI platforms and machine learning models to overhaul underwriting precision and claims automation, as evidenced by Duck Creek’s new insurance-native tools, Corgi’s claims acceleration platform, and Allianz’s leading position in the 2026 Evident AI Index. 
+
+Major players such as Chubb and HDFC ERGO are embedding generative AI across the value chain for fraud detection, risk pricing, and end-to-end processing, while Accenture’s investment in Reserv and HSB’s launch of dedicated AI liability coverage illustrate how technology is spawning both operational upgrades and entirely new product lines. Patent concentration among just three U.S. insurers underscores an early-mover advantage that is widening competitive gaps.
+
+Regulatory pushback is intensifying in parallel, with bipartisan state efforts to curb AI use in underwriting and billing decisions, NAIC oversight expectations, and emerging rules on aerial imagery and human review requirements creating compliance complexity for carriers. These constraints are forcing insurers to redesign governance frameworks even as they pursue efficiency gains.
+
+For investors, the combination of concentrated technological leadership, rising M&A interest in AI-enabled capabilities, and potential workforce displacement signals both margin expansion opportunities and execution risks, particularly for carriers slow to integrate responsible AI practices amid tightening oversight.
